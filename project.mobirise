@@ -1,0 +1,1592 @@
+{
+  "settings": {
+    "name": "Vale advokatfirma",
+    "currentPage": "hjem.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 78,
+    "versionPublish": "4.3.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "hjem.html": {
+      "settings": {
+        "main": true,
+        "title": "hjem.html",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_customHTML": "<section class=\"main_pic\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Text\">\n            <p class=\"subtext\" style=\"letter-spacing: 3px;  text-decoration: none;\">ADVOKATFIRMA</p>\n            <h1 class=\"header\"><span style=\"font-size: 60px; line-height: 1.1; font-family: Lora; \">Vale &amp; Kjeldsberg DA</span><br></h1>\n\n        \n    </div>\n        \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);\n\n.main_pic{\n    position: relative;\n    height : 750px;\n    background-image: url(\"@PROJECT_PATH@/assets/images/field.jpg\");\n    background-position: 50% 40% ;\n    background-attachment: fixed;\n}\n\n.Text{\n    padding-top: 250px;\n    display: block;\n    margin: auto;\n}\n\n.subtext{\n    margin:auto;\n    margin-bottom: 10px;\n    border: solid;\n    border-width: 0 0 1px 0;  \n    max-width: 250px;\n    text-align: center;\n}\n\n.header{\n    text-align: center;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-family: 'Alegreya Sans', sans-serif;\n\t\n}\nP {\n\tcolor: #ffffff;\n}",
+          "_customTemplate": true,
+          "_anchor": "header1-0"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Vi tar ekspropriasjonssaker mot stat og kommune",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\" background-color: #white; height: 300px;\"> <!----------E0E7E9------>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-family: Lora, serif;\" code-editable-id=\"41\">Ekspropriasjonssaker mot stat og kommune</h3>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lora:400,700);\n.mbr-section-title, .mbr-section-subtitle {\n    padding-top: 50px;\n\ttext-align: center;\n    font-family:raleway;\n    font-weight: normal;\n}\n\n.container{\n    max-width: 1100px;\n}\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "header3-1n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"Kompetanse\" style=\"background-color: #white; padding-top: 0px; padding-bottom: 0px; min-height:300px;\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n        <h1 class=\"Subheader\">ARBEIDSOMRÅDER</h1>      \n        \n            <p class=\"Info\"> Vi tar ekspropriasjonssaker for private grunneiere og private utbyggere - mot stat og kommune. \nVi har lang erfaring også med andre saker innenfor fast eiendoms rettsforhold, derunder regulering etter plan- og bygningsloven, utbyggingsavtaler, fredningssaker og andre reguleringssaker, samferdselsjordskifte og vanlig jordskiftesaker samt tomtefeste. <br>\nFirmaet har i tillegg praksis med base i Gvarv i Telemark.</p>\n<!----------\n            <h3 class=\"Subheader\">Erfaring</h3> \n        <p class=\"Info\">\n            <strong>Advokat Hilde Vale, partner</strong><br> Juridisk embetseksamen i 1989 og advokatbevilling 1991.<br> Tidligere praksis: <br>1989 – 1991: Advokatfullmektig i Norges boligbyggerlags landsforbund.  <br>1991 – 1997: Advokat og partner i adv. firmaet Blomseth, Kristiansen, Solberg &amp; Vale.<br>  1997 - 2001: Advokat og partner i adv. firmaet Torkildsen, Tennøe &amp; Co.   2001 - 2004: Advokat og partner i adv. firmaet Norlaw.  <br>2004- : Advokat og partner i Advokatfirma Vale &amp; Kjeldsberg DA<br><br>\n             <strong>Ola Normann, nyansatt</strong><br>\n            Vi har kontorer i Meltzers gate 4, ved Briskeby i Oslo.\n        </p>\n      --------->  \n           \n    </div>\n</section>",
+          "_customCSS": ".Content{\n    margin: auto;\n    max-width: 1100px;\n    background-color: white;\n    text-align: center;\n    padding-top: 30px;\n    padding-bottom: 50px;\n    \n}\n\n.Subheader{\n    font-family: raleway;\n    font-weight: normal;\n    letter-spacing: 2px;\n    margin: auto;\n    max-width:80%; \n    \n    border-bottom: 1px solid; \n    padding-bottom: 10px; \n    padding-top: 30px; \n}\n\n.Info{\n    padding-top: 10px;\n    font-size: 18px;\n    font-family: Raleway;\n     margin: auto;\n    max-width: 80%;\n    letter-spacing: 0.8px;\n}\n\n.Picture{\n    border-radius:50%;\n    border: 1px solid;\n    float: right;\n     \n}",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "header1-k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"Kompetanse\" style=\"background-color: #white;\">\n\n    \n    <div class=\"Content\">\n            <h1 class=\"Subheader\">ERFARING</h1> \n        \n            <h5>Advokat Hilde Vale, partner</h5><p class=\"Info\"> Juridisk embetseksamen i 1989 og advokatbevilling 1991.<br> \n            <strong>Tidligere praksis:</strong>\n            <br>1989 – 1991: Advokatfullmektig i Norges boligbyggerlags landsforbund.\n            <br>1991 – 1997: Advokat og partner i adv. firmaet Blomseth, Kristiansen, Solberg &amp; Vale.\n            <br>  1997 - 2001: Advokat og partner i adv. firmaet Torkildsen, Tennøe &amp; Co.\n            <br> 2001 - 2004: Advokat og partner i adv. firmaet Norlaw.\n            <br>2004- : Advokat og partner i Advokatfirma Vale &amp; Kjeldsberg DA\n            <br><br>\n            <strong>Ola Normann, nyansatt</strong><br>\n            Vi har kontorer i Meltzers gate 4, ved Briskeby i Oslo.\n        </p> \n    </div>\n</section>",
+          "_customCSS": ".Content{\n    margin: auto;\n    max-width: 1100px;\n    background-color: white;\n    text-align: center;\n    padding-top: 30px;\n    padding-bottom: 50px;   \n}\n\n.Subheader{\n    font-family: raleway;\n    font-weight: normal;\n    letter-spacing: 2px;\n    margin: auto;\n    margin-bottom: 40px;\n    max-width:80%;; \n    border-bottom: 1px solid; \n    padding-bottom: 10px; \n    padding-top: 30px; \n}\n\n.Info{\n    padding-bottom: 50px;\n    font-size: 18px;\n    font-family: Raleway;\n    \n    max-width: 100%;\n    letter-spacing: 0.8px;\n}\n\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "header1-x"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tfont-family: 'Lora', sans-serif;\n}\nSMALL {\n\tfont-size: 18px;\n}\n\n\n.mbr-section-title{\n    margin: auto;\n    min-height: 65px;\n    border-bottom: 1px solid;\n    max-width: 890px;\n    letter-spacing: 1px;\n    padding-top: 50px;\n}\n\n.mbr-section{\n   \n    \n}\n\n.Container{\n    margin: auto;\n    max-width: 1100px;\n    background-color: white;\n    text-align: center;\n    \n    height: 100%;\n}\n\n\n",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">Artikler</span><br>",
+          "meta": "<br>Vi tilbyr tjenester innen følgende fagområder",
+          "_customHTML": "<section class=\" mbr-section__container  article\" style=\"background-color: #white; height: 200px;\">\n    <div class=\"Container\">\n       <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"39\"><span style=\"font-weight: normal;\">Artikler</span><br></h3>\n                \n            </div>\n        </div> \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "header3-q"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_customHTML": "<!--text-shadow: 1px 1px 2px black, 0 0 15px yellow;-->\n\n<section class=\"Galleri\">\n                         <!-------hovedrad -------->\n        <a href=\"https://www.jusstorget.no/ekspropriasjon-kort-innforing/\" style=\"text-decoration:none;\">\n    <div class=\"overlay-main\">\n    </div>  \n    <div class=\"Container\">\n        \n            <div class=\"Row\">\n\n                <h3 class=\"text-main\">Ekspropriasjon</h3>\n                <p class=\"text-main subtext\" style=\"font-size:18px; \">En kort innføring</p> \n\n            </div>\n        \n    </div>\n    </a>               \n</section>",
+          "_customCSS": "section.Galleri{\n    min-height: 350px;\n    height: 350px;\n    background-image: url(\"@PROJECT_PATH@/assets/images/grd.jpg\");\n    background-position: center;\n    background-size: 100% 100%;\n    max-width: 100%;\n}\n\n\ndiv.Container {\n    position: relative;\n    margin: auto;\n    max-width: 100%;\n    min-height: 100%;\n}\n\n.Row{\n    padding-top:150px;\n    width:100%;\n    \n    \n}\n\n.overlay-main {\n  position: absolute;\n  height: 350px;\n  width: 100%;\n  opacity: 0.3;\n  transition: .4s ease;\n  background-color: #2e2e2e;\n}\n\n.Container:hover .text-main{\n    color: grey;\n    \n    opacity: 1;\n    transition: .4s ease;\n    \n}\n\n.Container:hover .subtext{\n    text-decoration: underline;\n}\n\n.text-main {\n    margin: auto;\n    color: lightgrey;\n    font-size: 50px;\n    font-weight: NORMAL;\n    font-family: 'Lora';\n    text-align: center;\n}   \n\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "gallery1-w"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_customHTML": "\n\n<section class=\"Galleri\">\n                               \n                                <!-------rad 1-------->\n    <div class=\"Rad\">\n       \n        <div class=\"Container\">  \n            <a href=\"https://www.jusstorget.no/?s=boliginnl%C3%B8sning\">\n                <img src=\"@PROJECT_PATH@/assets/images/ekspropriasjon.jpg\" width=\"300\" height=\"200\">\n                      <div class=\"overlay\">\n            <div class=\"text\"> Boliginnøsning ved ekspropriasjon \n            </div>\n          </div>\n            </a>\n\n        </div>        \n        <div class=\"Container\">  \n            <a href=\"https://www.jusstorget.no/naboforhold-og-traer/\">\n                <img src=\"@PROJECT_PATH@/assets/images/naboer.jpeg\" width=\"300\" height=\"200\"> \n                      <div class=\"overlay\">\n            <div class=\"text\"><span style=\"text-decoration: underline;\">Strøkspris</span> <br> <span style=\" font-size: 16px; text-decoration: none;\">\n                -gjennomsnitts- og erstatningsverdier innenfor et regulert utbyggningsområde </span>\n            </div>\n          </div>\n            </a>\n\n        </div>  \n        <div class=\"Container\">  \n            <a href=\"https://www.jusstorget.no/naboloven-en-del-hovedpunkter/\">\n                <img src=\"@PROJECT_PATH@/assets/images/grdvedlandevei.jpg\" width=\"300\" height=\"200\">\n                      <div class=\"overlay\">\n                          \n                            <div class=\"text\"><span style=\"text-decoration: underline;\">Stripeekspropriasjon</span> <br>\n                            <span style=\"font-size: 16px;\">\n                            delavståelse av tomt/hage/landbruksareal mm.\n                            </span>\n                          </div>\n                      </div>    \n            </a>\n\n        </div>      \n    </div>\n\n</section>",
+          "_customCSS": "section.Galleri{\n    height: 350px;\n}\n\ndiv.Rad{\n    height : 100%;\n}\n\ndiv.Container {\n    position: relative;\n    margin: 0px;\n    float: left;\n    width: 33.333%;\n    height: 100%;\n    text-align: center;\n}\n\ndiv.Container img {\n    width: 100%;\n    height: 100%;\n}\n\n.overlay {\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  height: 100%;\n  width: 100%;\n  opacity: 0;\n  transition: .8s ease;\n  background-color: #008CBA;\n}\n\n.Container:hover .overlay {\n  opacity: 0.7;\n}\n\n.text {\n    color: #ffff66;\n    font-size: 20px;\n    font-family: 'Lora';\n    text-shadow: 1px 1px 2px black, 0 0 5px yellow;\n    position: absolute;\n    \n    text-align: center;\n    margin:auto;\n    top: 50%;\n    left: 50%;\n    width: 100%;\n    transform: translate(-50%, -50%);\n    -ms-transform: translate(-50%, -50%);\n\n}\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "gallery1-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"Kompetanse\" style=\"background-color: white; padding-top: 0px; padding-bottom:0px; min-height:250px;\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n        \n        <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen.png\" style=\"max-height: 100%; padding-left: 20px;\">\n           \n    </div>\n</section>",
+          "_customCSS": ".Content{\n    margin: auto;\n    text-align: center;\n    padding-top: 150px;\n    padding-bottom: 50px;\n    \n}\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "header1-1c"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media screen and (max-width: 600px) {\n  .nav-item a:not(:first-child) {display: none;}\n  .nav-item a.link {\n    float: right;\n    display: block;\n  }\n}\n\n.navbar-caption{\n    letter-spacing: 2px;\n}\n\n.bg-color.transparent .navbar-caption {\n\tcolor: #2e2e2e;\n\ttransition: none;\n}\n\n.bg-color.transparent .link {\n\tcolor: #2e2e2e;\n\ttransition: none;\n}\n\n.nav-item{\n    letter-spacing: 1px;\n}\n\n.link:hover{\n\tcolor: yellow;\n    opacity: 0.8;\n    text-decoration: underline;\n    \n}\n\n.link{\n    font-weight:normal;\n    \n}\n\n.link, .dropdown-item {\n\tcolor: white;\n}\n\n.dropdown-item {\n\tcolor: white;\n}\n\n.bg-color.transparent .hamburger-icon{\n    color: #2e2e2e;\n}\n\n.hamburger-icon{\n    color: white;\n}\n",
+          "_anchor": "menu-p",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lady-72x128-1.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EKSPROPRIASJONSADVOKATEN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hjem.html\">HJEM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artikler.html\">ARTIKLER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hjem.html#header3-1n\">KOMPETANSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "artikler.html": {
+      "settings": {
+        "title": "artikler.html",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media screen and (max-width: 600px) {\n  .nav-item a:not(:first-child) {display: none;}\n  .nav-item a.link {\n    float: right;\n    display: block;\n  }\n}\n\n.navbar-caption{\n    letter-spacing: 2px;\n}\n\n.bg-color.transparent .navbar-caption {\n\tcolor: #2e2e2e;\n\ttransition: none;\n}\n\n.bg-color.transparent .link {\n\tcolor: #2e2e2e;\n\ttransition: none;\n}\n\n.nav-item{\n    letter-spacing: 1px;\n}\n\n.link:hover{\n\tcolor: yellow;\n    opacity: 0.8;\n    text-decoration: underline;\n    \n}\n\n.link{\n    font-weight:normal;\n    \n}\n\n.link, .dropdown-item {\n\tcolor: white;\n}\n\n.dropdown-item {\n\tcolor: white;\n}\n\n.bg-color.transparent .hamburger-icon{\n    color: #2e2e2e;\n}\n\n.hamburger-icon{\n    color: white;\n}\n",
+          "_anchor": "menu-25",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lady-72x128-1.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EKSPROPRIASJONSADVOKATEN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hjem.html\">HJEM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artikler.html\">ARTIKLER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hjem.html#header3-1n\">KOMPETANSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-m",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "title": "Artikler",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#5b5b5b"
+            }
+          },
+          "_customCSS": "padding-left:360px;\npadding-right:360px;\n\n\n.card-img{\n    display: block;\n    margin: auto;\n    \n}\n\n.card-img-top{\n    border-radius: 20%;\n    width:60%;\n    height:200px;\n    \n}\n\n.card-block{\n    width: 90%;\n    height: auto;\n    display: block;\n    margin: auto;\n}",
+          "_anchor": "features3-9",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/winding-brook-farm-papakating-creek-drone-photo-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Ekspropriasjon",
+          "subtitle1": "- kort innføring",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.jusstorget.no/ekspropriasjon-kort-innforing/\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LES</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ulsrud-borettslag-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Boliginnløsning ved ekspropriasjon",
+          "subtitle2": "-",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.jusstorget.no/boliginnlosning-ved-ekspropriasjon/\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LES</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/naober-600x257.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<br><span style=\"color: inherit; font-size: 1.25rem; letter-spacing: -1px; line-height: 1.2825;\">Naboforhold og trær</span><br>",
+          "subtitle3": ".",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LES</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/readfile1-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Borettslagsretten",
+          "subtitle4": "- en oversikt",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LES</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/readfile-600x447.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Naboloven",
+          "subtitle5": "- en del hovedpunkter",
+          "caption5": "Choose from the large selection of latest pre-made blocks - &nbsp;hamburger<br> menu, sticky more.<br><br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LES</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#5b5b5b"
+            }
+          },
+          "_customCSS": "padding-left:150px;\npadding-right:150px;\n\n\n.card-img{\n    display: block;\n    margin: auto;\n    \n}\n\n.card-img-top{\n    border-radius: 20%;\n    width:60%;\n    height:200px;\n    \n}\n\n.card-block{\n    width: 70%;\n    height: auto;\n    display: block;\n    margin: auto;\n}",
+          "_anchor": "features3-l",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/winding-brook-farm-papakating-creek-drone-photo-600x337-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Strøkspris",
+          "subtitle1": "- gjennomsnitts- og erstatningsverdi innenfor et regulertutbyggningsområde",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">LES</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/readfile-600x447.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Stripeekspropriasjon",
+          "subtitle2": "- delavståelse av tomt/hage/landbruksarealer m.m<br>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">LES</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/naober-600x257-1.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<span style=\"color: inherit; font-size: 1.25rem; letter-spacing: -1px; line-height: 1.2825;\">Naboforhold og trær</span><br>",
+          "subtitle3": "-<br><br>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">LES</a>",
+          "media4": {
+            "image": {
+              "src": "file:///C:/Users/madsf/AppData/Local/Mobirise.com/Mobirise/projectData/readfile1-600x450_1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Borettslagsretten",
+          "subtitle4": "- en oversikt",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LES</a>",
+          "media5": {
+            "image": {
+              "src": "file:///C:/Users/madsf/AppData/Local/Mobirise.com/Mobirise/projectData/readfile-600x447_1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Naboloven",
+          "subtitle5": "- en del hovedpunkter",
+          "caption5": "Choose from the large selection of latest pre-made blocks - &nbsp;hamburger<br> menu, sticky more.<br><br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LES</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "kontakt.html": {
+      "settings": {
+        "title": "kontakt.html",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "title2": "Visit our office",
+          "subTitle2": "Glad to meet new people",
+          "text2": "1234 Street Name </br> City AA 99999",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm4",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".intro-box h4": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "SPAN": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_customCSS": ".display-2{\n    letter-spacing: 2px;\n}\n\n.mbr-table-cell{\n    padding-left:16.5px;\n}\n\npadding-top: 120px;\n\n",
+          "_anchor": "extForm4-11",
+          "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": false,
+            "showText": true,
+            "showForm": true,
+            "inverse": false,
+            "googleMap": {
+              "address": "Meltzers gate 4 0257 OSLO",
+              "placeId": "ChIJg1Vqq9VtQUYR0PWhgmjSfyI",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/madsf/AppData/Local/Mobirise.com/Mobirise/projectData/img_extForm1_bg_2.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "<span style=\"font-weight: normal;\">Kontaktskjema</span>",
+          "title1": "",
+          "subTitle1": "Ready for offers &amp; cooperation",
+          "text1": "Telefon: + (47) 22 69 22 01 <br>Adresse: Meltzers gate 4, 0257 Oslo, Norge",
+          "form": {
+            "action": "hilde.vale@gmail.com",
+            "alerts": {
+              "success": ""
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Navn*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Tlf*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Melding"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media screen and (max-width: 600px) {\n  .nav-item a:not(:first-child) {display: none;}\n  .nav-item a.link {\n    float: right;\n    display: block;\n  }\n}\n\n.navbar-caption{\n    letter-spacing: 2px;\n}\n\n.bg-color.transparent .navbar-caption {\n\tcolor: #2e2e2e;\n\ttransition: none;\n}\n\n.bg-color.transparent .link {\n\tcolor: #2e2e2e;\n\ttransition: none;\n}\n\n.nav-item{\n    letter-spacing: 1px;\n}\n\n.link:hover{\n\tcolor: yellow;\n    opacity: 0.8;\n    text-decoration: underline;\n    \n}\n\n.link{\n    font-weight:normal;\n    \n}\n\n.link, .dropdown-item {\n\tcolor: white;\n}\n\n.dropdown-item {\n\tcolor: white;\n}\n\n.bg-color.transparent .hamburger-icon{\n    color: #2e2e2e;\n}\n\n.hamburger-icon{\n    color: white;\n}\n",
+          "_anchor": "menu-7",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lady-72x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EKSPROPRIASJONSADVOKATEN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hjem.html\">HJEM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artikler.html\">ARTIKLER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hjem.html#header3-1n\">KOMPETANSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "hjem.html",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_customHTML": "<section class=\"main_pic\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Text\">\n            <p class=\"subtext\" style=\"letter-spacing: 3px;  text-decoration: none;\">ADVOKATFIRMA</p>\n            <h1 class=\"header\"><span style=\"font-size: 60px; line-height: 1.1; font-family: Lora; \">Vale &amp; Kjeldsberg DA</span><br></h1>\n\n        \n    </div>\n        \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);\n\n.main_pic{\n    position: relative;\n    height : 750px;\n    background-image: url(\"@PROJECT_PATH@/assets/images/field.jpg\");\n    background-position: 50% 40% ;\n    background-attachment: fixed;\n}\n\n.Text{\n    padding-top: 250px;\n    display: block;\n    margin: auto;\n}\n\n.subtext{\n    margin:auto;\n    margin-bottom: 10px;\n    border: solid;\n    border-width: 0 0 1px 0;  \n    max-width: 250px;\n    text-align: center;\n}\n\n.header{\n    text-align: center;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-family: 'Alegreya Sans', sans-serif;\n\t\n}\nP {\n\tcolor: #ffffff;\n}",
+          "_customTemplate": true,
+          "_anchor": "header1-1x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Vi tar ekspropriasjonssaker mot stat og kommune",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"height: 300px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"27\">Ekspropriasjonssaker mot stat og kommune</h3>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n    padding-top: 50px;\n\ttext-align: center;\n    font-family:raleway;\n    font-weight: normal;\n}\n\n.container{\n    max-width: 1100px;\n}\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "header3-1y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"Kompetanse\" style=\"background-color: white; padding-top: 0px; padding-bottom: 0px; min-height:300px;\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n        <h1 class=\"Subheader\">ARBEIDSOMRÅDER</h1>      \n        \n            <p class=\"Info\"> Vi tar ekspropriasjonssaker for private grunneiere og private utbyggere - mot stat og kommune. \nVi har lang erfaring også med andre saker innenfor fast eiendoms rettsforhold, derunder regulering etter plan- og bygningsloven, utbyggingsavtaler, fredningssaker og andre reguleringssaker, samferdselsjordskifte og vanlig jordskiftesaker samt tomtefeste. <br>\nFirmaet har i tillegg praksis med base i Gvarv i Telemark.</p>\n<!----------\n            <h3 class=\"Subheader\">Erfaring</h3> \n        <p class=\"Info\">\n            <strong>Advokat Hilde Vale, partner</strong><br> Juridisk embetseksamen i 1989 og advokatbevilling 1991.<br> Tidligere praksis: <br>1989 – 1991: Advokatfullmektig i Norges boligbyggerlags landsforbund.  <br>1991 – 1997: Advokat og partner i adv. firmaet Blomseth, Kristiansen, Solberg &amp; Vale.<br>  1997 - 2001: Advokat og partner i adv. firmaet Torkildsen, Tennøe &amp; Co.   2001 - 2004: Advokat og partner i adv. firmaet Norlaw.  <br>2004- : Advokat og partner i Advokatfirma Vale &amp; Kjeldsberg DA<br><br>\n             <strong>Ola Normann, nyansatt</strong><br>\n            Vi har kontorer i Meltzers gate 4, ved Briskeby i Oslo.\n        </p>\n      --------->  \n           \n    </div>\n</section>",
+          "_customCSS": ".Content{\n    margin: auto;\n    max-width: 1100px;\n    background-color: white;\n    text-align: center;\n    padding-top: 30px;\n    padding-bottom: 50px;\n    \n}\n\n.Subheader{\n    font-family: raleway;\n    font-weight: normal;\n    letter-spacing: 2px;\n    margin: auto;\n    max-width:80%; \n    \n    border-bottom: 1px solid; \n    padding-bottom: 10px; \n    padding-top: 30px; \n}\n\n.Info{\n    padding-top: 10px;\n    font-size: 18px;\n    font-family: Raleway;\n     margin: auto;\n    max-width: 80%;\n    letter-spacing: 0.8px;\n}\n\n.Picture{\n    border-radius:50%;\n    border: 1px solid;\n    float: right;\n     \n}",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "header1-1z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"Kompetanse\" style=\"background-color: white; padding-top: 0px; padding-bottom:0px; min-height:400px;\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n            <h1 class=\"Subheader\">ERFARING</h1> \n        \n            <h5>Advokat Hilde Vale, partner</h5><p class=\"Info\"> Juridisk embetseksamen i 1989 og advokatbevilling 1991.<br> \n            <strong>Tidligere praksis:</strong>\n            <br>1989 – 1991: Advokatfullmektig i Norges boligbyggerlags landsforbund.\n            <br>1991 – 1997: Advokat og partner i adv. firmaet Blomseth, Kristiansen, Solberg &amp; Vale.\n            <br>  1997 - 2001: Advokat og partner i adv. firmaet Torkildsen, Tennøe &amp; Co.\n            <br> 2001 - 2004: Advokat og partner i adv. firmaet Norlaw.\n            <br>2004- : Advokat og partner i Advokatfirma Vale &amp; Kjeldsberg DA\n            <br><br>\n            <strong>Ola Normann, nyansatt</strong><br>\n            Vi har kontorer i Meltzers gate 4, ved Briskeby i Oslo.\n        </p>\n        \n        <img src=\"@PROJECT_PATH@/assets/images/advokatforeningen.png\" style=\"max-height: 400px; padding-left: 20px;\">\n           \n    </div>\n</section>",
+          "_customCSS": ".Content{\n    margin: auto;\n    max-width: 1100px;\n    background-color: white;\n    text-align: center;\n    padding-top: 30px;\n    padding-bottom: 50px;\n    \n}\n\n.Subheader{\n    font-family: raleway;\n    font-weight: normal;\n    letter-spacing: 2px;\n    margin: auto;\n    margin-bottom: 40px;\n    max-width:80%;; \n    border-bottom: 1px solid; \n    padding-bottom: 10px; \n    padding-top: 30px; \n}\n\n.Info{\n    padding-bottom: 50px;\n    font-size: 18px;\n    font-family: Raleway;\n    \n    max-width: 100%;\n    letter-spacing: 0.8px;\n}\n\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "header1-20"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tfont-family: 'Raleway', sans-serif;\n}\nSMALL {\n\tfont-size: 18px;\n}\n\n\n.mbr-section-title{\n    margin: auto;\n    min-height: 65px;\n    border-bottom: 1px solid;\n    max-width: 500px;\n    letter-spacing: 1px;\n}\n\n.mbr-section{\n    background-color: ;\n}\n\n",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">Artikler</span><br>",
+          "meta": "<br>Vi tilbyr tjenester innen følgende fagområder",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: white; padding-top: 140px; padding-bottom: 60px;\">\n    \n \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"48\"><span style=\"font-weight: normal;\">Artikler</span><br></h3>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "header3-21"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_customHTML": "\n\n<section class=\"Galleri \">\n                         <!-------hovedrad -------->\n        \n    \n                <div class=\"overlay-main\">\n    </div> \n    <div class=\"Container\">\n\n        <a href=\"https://www.jusstorget.no/ekspropriasjon-kort-innforing/\">\n        <div class=\"Row\">\n\n            <h3 class=\"text-main\">Ekspropriasjon</h3>\n            <p class=\"text-main subtext\" style=\"font-size:18px; \">En kort innføring</p> \n             \n        </div>\n             </a> \n    </div>\n                      \n</section>",
+          "_customCSS": "section.Galleri{\n    height: 350px;\n    background-image: url(\"@PROJECT_PATH@/assets/images/grd.jpg\");\n    background-position: center;\n    background-size: 100% 100%;\n    max-width: 100%;\n}\n\n\ndiv.Container {\n    position: relative;\n    top: 40%;\n    margin: auto;\n    max-width: 75%;\n    min-height: 20%;\n    \n}\n\n.Row{\n    margin: auto;\n    width:100%;\n    height:auto;\n    \n}\n\n.overlay-main {\n    position: absolute;\n    min-height:100%;\n    max-height: 100%;\n    width: 100%;\n    opacity: 0.3;\n    transition: .4s ease;\n    background-color: #2e2e2e;\n}\n\n.Container:hover .text-main{\n    color: #ffff33;\n    text-shadow: 1px 1px 2px black, 0 0 15px yellow;\n    opacity: 0.7;\n    transition: .4s ease;\n    \n}\n\n.Container:hover .subtext{\n    text-decoration: underline;\n}\n\n.text-main {\n    margin: auto;\n    color: lightgrey;\n    font-size: 50px;\n    font-weight: bold;\n    text-align: center;\n}   \n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "gallery1-22"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_customHTML": "\n\n<section class=\"Galleri\">\n                               \n                                <!-------rad 1-------->\n    <div class=\"Rad\">\n       \n        <div class=\"Container\">  \n            <a href=\"https://www.jusstorget.no/?s=boliginnl%C3%B8sning\">\n                <img src=\"@PROJECT_PATH@/assets/images/ekspropriasjon.jpg\" width=\"300\" height=\"200\">\n                      <div class=\"overlay\">\n            <div class=\"text\"> Boliginnøsning ved ekspropriasjon \n            </div>\n          </div>\n            </a>\n\n        </div>        \n        <div class=\"Container\">  \n            <a href=\"https://www.jusstorget.no/naboforhold-og-traer/\">\n                <img src=\"@PROJECT_PATH@/assets/images/naboer.jpeg\" width=\"300\" height=\"200\"> \n                      <div class=\"overlay\">\n            <div class=\"text\">Naboforhold og trær\n            </div>\n          </div>\n            </a>\n\n        </div>  \n        <div class=\"Container\">  \n            <a href=\"https://www.jusstorget.no/naboloven-en-del-hovedpunkter/\">\n                <img src=\"@PROJECT_PATH@/assets/images/grdvedlandevei.jpg\" width=\"300\" height=\"200\">\n                      <div class=\"overlay\">\n            <div class=\"text\">Stripeekspropriasjon\n            </div>\n          </div>\n            </a>\n\n        </div>      \n    </div>\n                                <!-------rad 2-------->\n\n</section>",
+          "_customCSS": "section.Galleri{\n    height: 350px;\n}\n\ndiv.Rad{\n    height : 100%;\n}\n\ndiv.Container {\n    position: relative;\n    margin: 0px;\n    float: left;\n    width: 33.333%;\n    height: 100%;\n    text-align: center;\n}\n\ndiv.Container img {\n    width: 100%;\n    height: 100%;\n}\n\n.overlay {\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  height: 100%;\n  width: 100%;\n  opacity: 0;\n  transition: .8s ease;\n  background-color: #008CBA;\n}\n\n.Container:hover .overlay {\n  opacity: 0.7;\n}\n\ndiv.text {\n    color: #ffff66;\n    font-size: 20px;\n    text-shadow: 1px 1px 2px black, 0 0 5px yellow;\n    position: absolute;\n    text-decoration: underline;\n    top: 50%;\n    left: 50%;\n    width: 100%;\n    transform: translate(-50%, -50%);\n    -ms-transform: translate(-50%, -50%);\n\n}\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "gallery1-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"Kompetanse\" style=\"background-color: white; padding-top: 0px; padding-bottom:0px; min-height:250px;\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n        \n        <img src=\"@PROJECT_PATH@/assets/images/advokatforeningen.png\" style=\"max-height: 400px; padding-left: 20px;\">\n           \n    </div>\n</section>",
+          "_customCSS": ".Content{\n    margin: auto;\n    text-align: center;\n    padding-top: 70px;\n    padding-bottom: 50px;\n    \n}\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "header1-24"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media screen and (max-width: 600px) {\n  .nav-item a:not(:first-child) {display: none;}\n  .nav-item a.link {\n    float: right;\n    display: block;\n  }\n}\n\n.navbar-caption{\n    letter-spacing: 2px;\n}\n\n.bg-color.transparent .navbar-caption {\n\tcolor: #2e2e2e;\n\ttransition: none;\n}\n\n.bg-color.transparent .link {\n\tcolor: #2e2e2e;\n\ttransition: none;\n}\n\n.nav-item{\n    letter-spacing: 1px;\n}\n\n.link:hover{\n\tcolor: yellow;\n    opacity: 0.8;\n    text-decoration: underline;\n    \n}\n\n.link{\n    font-weight:normal;\n    \n}\n\n.link, .dropdown-item {\n\tcolor: white;\n}\n\n.dropdown-item {\n\tcolor: white;\n}\n\n.bg-color.transparent .hamburger-icon{\n    color: #2e2e2e;\n}\n\n.hamburger-icon{\n    color: white;\n}\n",
+          "_anchor": "menu-25",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lady-72x128-1.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EKSPROPRIASJONSADVOKATEN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hjem.html\">HJEM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artikler.html\">ARTIKLER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hjem.html#header3-1n\">KOMPETANSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    }
+  }
+}
