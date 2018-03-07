@@ -2714,7 +2714,7 @@ body {
 }
 #custom-html-1s .medarbeidere {
   width: 100%;
-  height: 600px;
+  height: 550px;
   background-color: white;
 }
 #custom-html-1s .konteiner {
@@ -4225,16 +4225,9 @@ body {
   }
 }
 .cid-qJPhXJjAm4 {
-  padding-top: 150px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/mbr-1440x1080.jpg");
-}
-#custom-html-y {
-  /* Type valid CSS here */
-}
-#custom-html-y .mellomrom {
-  background-color: white;
-  height: 100px;
+  padding-top: 165px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
 #custom-html-t section.Galleri {
   height: 250px;
@@ -4244,6 +4237,7 @@ body {
   max-width: 25%;
   margin: auto;
   border-radius: 3%;
+  margin-top: 100px;
 }
 #custom-html-t div.Container {
   position: relative;
@@ -4808,7 +4802,7 @@ body {
 }
 .cid-qJPoI0NRhD {
   padding-top: 165px;
-  padding-bottom: 60px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/grd-2000x755.jpg");
 }
 .cid-qJPv4GYQf1 {
@@ -5296,8 +5290,8 @@ body {
   }
 }
 .cid-qJPp9BmbTU {
-  padding-top: 150px;
-  padding-bottom: 75px;
+  padding-top: 165px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/ekspropriasjon-2000x1125.jpg");
 }
 .cid-qJShPgoNWF {
@@ -5400,13 +5394,13 @@ body {
   text-align: center;
 }
 .cid-qJPpxJX9DE {
-  padding-top: 150px;
-  padding-bottom: 75px;
+  padding-top: 165px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/naboer-700x300.jpg");
 }
 .cid-qLtLJ4fOQj {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 175px;
+  padding-bottom: 175px;
   background-color: #ffffff;
 }
 .cid-qLtLJ4fOQj .mbr-section-subtitle {
@@ -6256,13 +6250,13 @@ body {
   }
 }
 .cid-qJPpUHgB6Y {
-  padding-top: 150px;
-  padding-bottom: 75px;
+  padding-top: 165px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/grdvedlandevei-1199x864.jpg");
 }
 .cid-qLtM8K9DeO {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 175px;
+  padding-bottom: 175px;
   background-color: #ffffff;
 }
 .cid-qLtM8K9DeO .mbr-section-subtitle {
@@ -6859,8 +6853,8 @@ body {
   text-align: center;
 }
 .cid-qLtOIG5hlb {
-  padding-top: 240px;
-  padding-bottom: 150px;
+  padding-top: 400px;
+  padding-bottom: 250px;
   background-color: #ffffff;
 }
 .cid-qLtOIG5hlb .mbr-section-subtitle {
