@@ -2222,13 +2222,13 @@ body {
   }
 }
 .cid-qISmgGOAQj {
-  padding-top: 165px;
+  padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/mbr-1728x1080.jpg");
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
 #custom-html-l .Content {
   margin: auto;
-  max-width: 1100px;
+  max-width: 1150px;
   background-color: white;
   text-align: center;
   padding-top: 15px;
@@ -2717,7 +2717,7 @@ body {
   position: relative;
   top: 30%;
   bottom: ;
-  background-image: url("../../../assets/images/away-976703-1920-1920x1535.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 #custom-html-1s .medarbeidere {
   width: 100%;
@@ -2742,23 +2742,34 @@ body {
   position: relative;
   height: 100%;
   width: 600px;
+  background: #aaaaaa;
   text-align: center;
   float: left;
   margin: 0px 70px 0px 70px;
-  background-color: white;
   border-radius: 2.5%;
   border: 2px solid;
 }
-#custom-html-1s .galleri img {
+#custom-html-1s .img-box {
+  z-score: 10;
   height: 90%;
-  margin-top: 28px;
+  margin-top: 27px;
+  margin-left: 5px;
+  border-radius: 2.5%;
+  float: left;
+}
+#custom-html-1s .box {
+  position: absolute;
+  height: 90%;
+  border-radius: 2.5%;
+}
+#custom-html-1s .galleri img {
+  height: 100%;
   border-radius: 2.5%;
   float: left;
 }
 #custom-html-1s .overlay {
   position: relative;
   opacity: 1;
-  background-color: white;
   width: 100%;
   height: 100%;
   -webkit-transition: 1s;
@@ -2787,8 +2798,8 @@ body {
   padding-left: 7%;
   font-size: 20px;
 }
-#custom-html-1s .galleri:hover .name {
-  color: gold;
+#custom-html-1s .box:hover img {
+  opacity: 0;
   -webkit-transition: .4s;
   /* For Safari 3.1 to 6.0 */
   transition: .4s;
@@ -5305,7 +5316,7 @@ body {
 .cid-qJPp9BmbTU {
   padding-top: 165px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/ekspropriasjon-2000x1125.jpg");
+  background-image: url("../../../assets/images/mbr-1587x1080.jpg");
 }
 .cid-qJShPgoNWF {
   padding-top: 75px;
@@ -6353,7 +6364,7 @@ body {
 }
 .cid-qO7Gpi3nwV {
   padding-top: 120px;
-  padding-bottom: 15px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
 .cid-qO7Gpi3nwV .mbr-iconfont {
