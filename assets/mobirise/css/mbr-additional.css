@@ -4252,7 +4252,7 @@ body {
 }
 #custom-html-t section.Galleri {
   height: 250px;
-  background-image: url("../../../assets/images/grd.jpg");
+  background-image: url("../../../assets/images/ekspro.jpg");
   background-position: center;
   background-size: 100% 100%;
   max-width: 25%;
@@ -5315,7 +5315,7 @@ body {
 .cid-qJPp9BmbTU {
   padding-top: 165px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/mbr-1587x1080.jpg");
+  background-image: url("../../../assets/images/houses-2000x855.jpg");
 }
 .cid-qJShPgoNWF {
   padding-top: 75px;
@@ -5417,14 +5417,9 @@ body {
 .cid-qO9TG2tM1D H5 {
   text-align: center;
 }
-.cid-qJPpxJX9DE {
-  padding-top: 165px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/naboer-700x300.jpg");
-}
 .cid-qLtLJ4fOQj {
-  padding-top: 175px;
-  padding-bottom: 175px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   background-color: #ffffff;
 }
 .cid-qLtLJ4fOQj .mbr-section-subtitle {
@@ -6274,14 +6269,9 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qJPpUHgB6Y {
-  padding-top: 165px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/grdvedlandevei-1199x864.jpg");
-}
 .cid-qLtM8K9DeO {
-  padding-top: 175px;
-  padding-bottom: 175px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   background-color: #ffffff;
 }
 .cid-qLtM8K9DeO .mbr-section-subtitle {
