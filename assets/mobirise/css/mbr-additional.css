@@ -4251,6 +4251,7 @@ body {
 }
 #custom-html-30 {
   /* Type valid CSS here */
+  /* Type valid CSS here */
 }
 #custom-html-30 section.Galleri {
   margin-top: 50px;
@@ -4260,16 +4261,15 @@ body {
   background-color: white;
 }
 #custom-html-30 div.Rad {
-  width: 100%;
+  width: 75%;
   height: 100%;
   margin: auto;
 }
 #custom-html-30 div.Container {
   position: relative;
-  margin-left: 15%;
-  margin-right: 0%;
+  margin-left: 13.5%;
   display: inline-block;
-  width: 25%;
+  width: 30%;
   height: 100%;
   text-align: center;
 }
@@ -4319,16 +4319,15 @@ body {
   background-color: white;
 }
 #custom-html-u div.Rad {
-  width: 100%;
+  width: 75%;
   height: 100%;
   margin: auto;
 }
 #custom-html-u div.Container {
   position: relative;
-  margin-left: 4.05%;
-  margin-right: 4.05%;
+  margin-left: 13.5%;
   display: inline-block;
-  width: 25%;
+  width: 30%;
   height: 100%;
   text-align: center;
 }
