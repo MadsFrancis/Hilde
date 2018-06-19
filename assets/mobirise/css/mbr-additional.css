@@ -2747,7 +2747,6 @@ body {
   float: left;
   margin: 0px 70px 0px 70px;
   border-radius: 2.5%;
-  border: 2px solid;
 }
 #custom-html-1s .img-box {
   height: 90%;
@@ -6454,7 +6453,7 @@ body {
   font-size: 45px;
 }
 .cid-qy1yK3F0Wn .navbar {
-  padding: .1rem 0;
+  padding: 1rem 0;
   background: #ffffff;
   transition: none;
   min-height: 77px;
