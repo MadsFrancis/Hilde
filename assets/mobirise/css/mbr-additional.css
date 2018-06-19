@@ -4249,59 +4249,64 @@ body {
   padding-bottom: 135px;
   background-image: url("../../../assets/images/mbr-1-1728x1080.jpg");
 }
-#custom-html-t section.Galleri {
+#custom-html-30 {
+  /* Type valid CSS here */
+}
+#custom-html-30 section.Galleri {
+  margin-top: 50px;
   height: 250px;
-  background-image: url("../../../assets/images/ekspro.jpg");
-  background-position: center;
-  background-size: 100% 100%;
-  max-width: 25%;
-  margin: auto;
   border-radius: 3%;
-  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: white;
 }
-#custom-html-t div.Container {
-  position: relative;
-  border-radius: 10%;
-  margin: auto;
-  max-width: 100%;
-  min-height: 100%;
-}
-#custom-html-t .Row {
-  height: 40%;
-  position: relative;
-  top: 40%;
+#custom-html-30 div.Rad {
   width: 100%;
+  height: 100%;
+  margin: auto;
 }
-#custom-html-t .overlay-main {
+#custom-html-30 div.Container {
+  position: relative;
+  margin-left: 15%;
+  margin-right: 0%;
+  display: inline-block;
+  width: 25%;
+  height: 100%;
+  text-align: center;
+}
+#custom-html-30 div.Container img {
+  width: 100%;
+  height: 100%;
+  border-radius: 3%;
+}
+#custom-html-30 .overlay {
   border-radius: 3%;
   position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   height: 100%;
   width: 100%;
   opacity: 0.4;
   transition: .8s ease;
   background-color: #008CBA;
 }
-#custom-html-t .Container:hover .overlay-main {
+#custom-html-30 .Container:hover .overlay {
   opacity: 0.7;
 }
-#custom-html-t #2e2e2e .Container:hover .text-main {
-  color: grey;
-  opacity: 1;
-  transition: .8s ease;
-}
-#custom-html-t .Container:hover .subtext {
-  text-decoration: underline;
-}
-#custom-html-t .text-main {
+#custom-html-30 .text {
   color: #ffff66;
-  font-size: 30px;
+  font-size: 20px;
   font-family: 'Lora';
   text-shadow: 1px 1px 2px black, 0 0 5px yellow;
+  position: absolute;
   text-align: center;
   margin: auto;
   top: 50%;
   left: 50%;
   width: 100%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
 #custom-html-u {
   /* Type valid CSS here */
@@ -4361,6 +4366,106 @@ body {
   width: 100%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
+}
+.cid-qVpuIeqLV6 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qVpuIeqLV6 .card-box {
+  padding: 0 2rem;
+  margin: auto;
+  text-align: center;
+}
+.cid-qVpuIeqLV6 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qVpuIeqLV6 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qVpuIeqLV6 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 20px;
+}
+.cid-qVpuIeqLV6 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qVpuIeqLV6 .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-qVpuIeqLV6 .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  margin: auto;
+  text-align: center;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qVpuIeqLV6 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qVpuIeqLV6 .card-img img {
+  height: auto;
+  width: 400px;
+}
+.cid-qVpyORkkY5 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qVpyORkkY5 .card-box {
+  padding: 0 2rem;
+  margin: auto;
+  text-align: center;
+}
+.cid-qVpyORkkY5 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qVpyORkkY5 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qVpyORkkY5 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 20px;
+}
+.cid-qVpyORkkY5 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qVpyORkkY5 .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-qVpyORkkY5 .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  margin: auto;
+  text-align: center;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qVpyORkkY5 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qVpyORkkY5 .card-img img {
+  height: auto;
+  width: 400px;
 }
 .cid-qO7E8BMidk {
   padding-top: 60px;
