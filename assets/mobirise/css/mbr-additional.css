@@ -2717,7 +2717,7 @@ body {
   position: relative;
   top: 30%;
   bottom: ;
-  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
+  background-image: url("../../../assets/images/railway-1030899-1921-1920x1279.jpg");
 }
 #custom-html-1s .medarbeidere {
   width: 100%;
@@ -2742,17 +2742,17 @@ body {
   position: relative;
   height: 100%;
   width: 600px;
-  background: #aaaaaa;
   text-align: center;
   float: left;
   margin: 0px 70px 0px 70px;
-  border-radius: 2.5%;
+  border: 1px solid black;
+  border-radius: 1%;
 }
 #custom-html-1s .img-box {
   height: 90%;
   margin-top: 27px;
   margin-left: 5px;
-  border-radius: 2.5%;
+  border-radius: 1%;
   float: left;
 }
 #custom-html-1s .box {
@@ -2796,12 +2796,6 @@ body {
   padding-left: 7%;
   font-size: 20px;
 }
-#custom-html-1s .galleri:hover .box img {
-  opacity: 0;
-  -webkit-transition: .4s;
-  /* For Safari 3.1 to 6.0 */
-  transition: .4s;
-}
 #custom-html-36 {
   /* Type valid CSS here */
 }
@@ -2811,10 +2805,10 @@ body {
 }
 #custom-html-36 .kontent {
   position: relative;
-  height: 90%;
+  height: 80%;
   width: 95%;
   margin: auto;
-  top: 10%;
+  top: 20%;
   text-align: center;
 }
 #custom-html-36 .col-left {
