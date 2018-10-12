@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "artikler.html",
+    "currentPage": "boliginnlosning.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 148,
+    "uniqCompNum": 150,
     "versionPublish": "4.3.4",
     "theme": {
       "name": "mobirise4",
@@ -1002,7 +1002,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x230.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x232.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n   \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1468,7 +1468,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x230.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x232.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n   \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1906,7 +1906,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x230.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x232.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n   \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -2344,7 +2344,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x230.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x232.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n   \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -2792,7 +2792,7 @@
               "margin-bottom": "0",
               "text-align": "center",
               "padding-top": "2rem",
-              "font-size": "20px"
+              "font-size": "1.5vw"
             },
             "p": {
               "margin-bottom": "0",
@@ -2827,9 +2827,30 @@
               }
             },
             ".card-img img": {
-              "height": "300px",
-              "width": "400px",
+              "height": "(10vw + 10vh)",
+              "width": "(13vw + 13vh)",
               "border-radius": "3%"
+            },
+            ".btn-primary": {
+              "height": "(1.5vw + 1.5vh)",
+              "width": "(5.2vw + 5.2vh)",
+              "font-size": "1vw"
+            },
+            "@media screen and (max-width: 350px)": {
+              "a": {
+                "font-size": "0.1vw"
+              },
+              ".btn": {
+                "width": "125px"
+              },
+              ".card-img img": {
+                "height": "(20vw + 20vh)",
+                "width": "(25vw + 25vh)",
+                "border-radius": "3%"
+              },
+              "h4": {
+                "font-size": "3vw"
+              }
             }
           },
           "_name": "features3",
@@ -2905,8 +2926,30 @@
               }
             },
             ".card-img img": {
-              "height": "300px",
-              "width": "400px"
+              "height": "(10vw + 10vh)",
+              "width": "(13vw + 13vh)",
+              "border-radius": "3%"
+            },
+            ".btn-primary": {
+              "height": "(1.5vw + 1.5vh)",
+              "width": "(5.2vw + 5.2vh)",
+              "font-size": "1vw"
+            },
+            "@media screen and (max-width: 350px)": {
+              "a": {
+                "font-size": "0.1vw"
+              },
+              ".btn": {
+                "width": "125px"
+              },
+              ".card-img img": {
+                "height": "(20vw + 20vh)",
+                "width": "(25vw + 25vh)",
+                "border-radius": "3%"
+              },
+              "h4": {
+                "font-size": "3vw"
+              }
             }
           },
           "_name": "features3",
@@ -2923,14 +2966,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x23.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
-          "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 170px;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:300px;\n \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:300px;\n  \n    color:white;\n    float:right;\n    margin-right:50px;\n  \n}\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:20px;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:14px;\n}",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x232.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n   \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-3l"
+          "_anchor": "custom-html-44"
         }
       ]
     },
@@ -3403,14 +3446,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x231.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
-          "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 170px;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:300px;\n \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:300px;\n  \n    color:white;\n    float:right;\n    margin-right:50px;\n  \n}\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:20px;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:14px;\n}",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x232.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n   \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-3r"
+          "_anchor": "custom-html-45"
         }
       ]
     },
@@ -3883,7 +3926,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x231.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x233.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 170px;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:300px;\n \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:300px;\n  \n    color:white;\n    float:right;\n    margin-right:50px;\n  \n}\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:20px;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:14px;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -4324,7 +4367,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x231.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x233.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 174px;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:300px;\n \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:300px;\n  \n    color:white;\n    float:right;\n    margin-right:50px;\n  \n}\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:20px;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:14px;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -4767,7 +4810,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x231.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x233.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 174px;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:300px;\n \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:300px;\n  \n    color:white;\n    float:right;\n    margin-right:50px;\n  \n}\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:20px;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:14px;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -5314,7 +5357,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x231.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x233.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 170px;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:300px;\n \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:300px;\n  \n    color:white;\n    float:right;\n    margin-right:50px;\n  \n}\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:20px;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:14px;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -5776,7 +5819,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x230.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x232.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong>91828738<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90745249<br><strong> Kontor:</strong>  22692201<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #aaaaaa;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n   \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
