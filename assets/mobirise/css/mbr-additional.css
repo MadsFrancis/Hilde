@@ -2823,6 +2823,7 @@ body {
 #custom-html-41 .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
@@ -2832,6 +2833,7 @@ body {
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
 #custom-html-41 img {
