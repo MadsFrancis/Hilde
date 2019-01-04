@@ -1652,7 +1652,7 @@ body {
   border-right: .30em solid transparent;
   border-left: .30em solid transparent;
 }
-@media (max-width: 991px) {
+@media (max-width: 500px) {
   .cid-qy1yK3F0Wn .navbar-expand {
     flex-direction: column;
   }
@@ -1741,7 +1741,7 @@ body {
     border-left: .30em solid transparent;
   }
 }
-@media (min-width: 767px) {
+@media (min-width: 1000px) {
   .cid-qy1yK3F0Wn .menu-logo {
     flex-shrink: 0;
   }
@@ -2769,6 +2769,7 @@ body {
   font-family: 'Great Vibes';
   padding-left: 7%;
   font-size: 20px;
+  weight: bold;
 }
 @media screen and (max-width: 400px) {
   #custom-html-1s .medarbeidere {
