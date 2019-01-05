@@ -1375,7 +1375,7 @@ body {
   font-family: 'Open San';
 }
 .cid-qy1yK3F0Wn .nav-item span {
-  padding-right: 0.0em;
+  padding-right: 1.0em;
   line-height: 0.5em;
   vertical-align: text-bottom;
   position: relative;
@@ -1652,7 +1652,7 @@ body {
   border-right: .30em solid transparent;
   border-left: .30em solid transparent;
 }
-@media (max-width: 500px) {
+@media (max-width: 1200px) {
   .cid-qy1yK3F0Wn .navbar-expand {
     flex-direction: column;
   }
@@ -1715,7 +1715,7 @@ body {
   }
   .cid-qy1yK3F0Wn .dropdown.open > .dropdown-menu {
     position: relative;
-    opacity: 1;
+    opacity: 0;
     height: auto;
     padding: 1.4rem 0;
     visibility: visible;
@@ -1741,7 +1741,7 @@ body {
     border-left: .30em solid transparent;
   }
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .cid-qy1yK3F0Wn .menu-logo {
     flex-shrink: 0;
   }
@@ -1751,7 +1751,7 @@ body {
 }
 #custom-html-3h .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
 #custom-html-3h .kontent {
   position: relative;
@@ -1764,6 +1764,7 @@ body {
 #custom-html-3h .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
@@ -1773,6 +1774,7 @@ body {
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
 #custom-html-3h img {
@@ -2237,7 +2239,7 @@ body {
 }
 #custom-html-3z .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
 #custom-html-3z .kontent {
   position: relative;
@@ -2250,6 +2252,7 @@ body {
 #custom-html-3z .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
@@ -2259,6 +2262,7 @@ body {
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
 #custom-html-3z img {
@@ -2755,7 +2759,7 @@ body {
   position: absolute;
   bottom: 0px;
   right: 0px;
-  width: 45%;
+  width: 50%;
   height: 80%;
   text-align: left;
   line-height: 6.2vh;
@@ -2810,7 +2814,7 @@ body {
 }
 #custom-html-41 .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
 #custom-html-41 .kontent {
   position: relative;
@@ -3255,18 +3259,18 @@ body {
   margin: auto;
   max-width: 1100px;
   background-color: white;
-  text-align: center;
   padding-top: 110px;
   padding-bottom: 50px;
 }
 #custom-html-1m .Subheader {
   font-family: raleway;
   font-weight: normal;
+  text-align: center;
   letter-spacing: 2px;
   font-size: 2.6vw;
   margin: auto;
   margin-bottom: 40px;
-  max-width: 80%;
+  max-width: 100%;
   border-bottom: 1px solid;
   padding-bottom: 10px;
   padding-top: 30px;
@@ -3275,7 +3279,16 @@ body {
   padding-bottom: 10px;
   font-size: 1.2vw;
   font-family: Raleway;
-  text-align: center;
+  text-align: left;
+  max-width: 100%;
+  letter-spacing: 0.8px;
+  line-height: 35px;
+}
+#custom-html-1m .Erfaring {
+  padding-bottom: 10px;
+  font-size: 1.2vw;
+  font-family: Raleway;
+  text-align: left;
   max-width: 100%;
   letter-spacing: 0.8px;
   line-height: 35px;
@@ -3283,6 +3296,7 @@ body {
 #custom-html-1m h4 {
   font-size: 1.6vw;
   font-weight: bold;
+  text-align: left;
 }
 #custom-html-1m p {
   text-align: center;
@@ -3314,7 +3328,7 @@ body {
 }
 #custom-html-42 .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
 #custom-html-42 .kontent {
   position: relative;
@@ -3327,6 +3341,7 @@ body {
 #custom-html-42 .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
@@ -3336,6 +3351,7 @@ body {
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
 #custom-html-42 img {
@@ -3757,27 +3773,36 @@ body {
   margin: auto;
   max-width: 1100px;
   background-color: white;
-  text-align: center;
   padding-top: 110px;
   padding-bottom: 50px;
 }
 #custom-html-1o .Subheader {
   font-family: raleway;
   font-weight: normal;
+  text-align: center;
   letter-spacing: 2px;
   font-size: 2.6vw;
   margin: auto;
   margin-bottom: 40px;
-  max-width: 80%;
+  max-width: 100%;
   border-bottom: 1px solid;
   padding-bottom: 10px;
   padding-top: 30px;
 }
 #custom-html-1o .Info {
-  padding-bottom: 27px;
+  padding-bottom: 10px;
   font-size: 1.2vw;
   font-family: Raleway;
-  text-align: center;
+  text-align: left;
+  max-width: 100%;
+  letter-spacing: 0.8px;
+  line-height: 35px;
+}
+#custom-html-1o .Erfaring {
+  padding-bottom: 10px;
+  font-size: 1.2vw;
+  font-family: Raleway;
+  text-align: left;
   max-width: 100%;
   letter-spacing: 0.8px;
   line-height: 35px;
@@ -3785,6 +3810,7 @@ body {
 #custom-html-1o h4 {
   font-size: 1.6vw;
   font-weight: bold;
+  text-align: left;
 }
 #custom-html-1o p {
   text-align: center;
@@ -3801,11 +3827,11 @@ body {
   }
   #custom-html-1o .Info {
     font-size: 1.3vh;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
   }
   #custom-html-1o .Content {
     padding-top: 70px;
-    padding-bottom: 76px;
+    padding-bottom: 10px;
   }
   #custom-html-1o img {
     width: 55vw;
@@ -3816,7 +3842,7 @@ body {
 }
 #custom-html-43 .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
 #custom-html-43 .kontent {
   position: relative;
@@ -3829,6 +3855,7 @@ body {
 #custom-html-43 .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
@@ -3838,6 +3865,7 @@ body {
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
 #custom-html-43 img {
@@ -4267,10 +4295,12 @@ body {
 }
 .cid-qVpuIeqLV6 .mbr-section-btn {
   padding-top: 1rem;
+  margin: 0;
 }
 .cid-qVpuIeqLV6 .mbr-section-btn a {
   margin-top: 1rem;
   margin-bottom: 0;
+  margin: 0;
 }
 .cid-qVpuIeqLV6 h4 {
   font-weight: 500;
@@ -4287,6 +4317,8 @@ body {
 .cid-qVpuIeqLV6 .mbr-text {
   color: #767676;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 .cid-qVpuIeqLV6 .card-wrapper {
   height: 100%;
@@ -4310,13 +4342,17 @@ body {
   height: 3vw;
   width: 10.4vw;
   font-size: 1vw;
+  padding-left: 0;
+  padding-right: 0;
 }
 @media screen and (max-width: 350px) {
   .cid-qVpuIeqLV6 a {
     font-size: 0.1vw;
   }
   .cid-qVpuIeqLV6 .btn {
-    width: 125px;
+    width: 100px;
+    padding-left: 0;
+    padding-right: 0;
   }
   .cid-qVpuIeqLV6 .card-img img {
     height: 40vw;
@@ -4349,7 +4385,7 @@ body {
   margin-bottom: 0;
   text-align: center;
   padding-top: 2rem;
-  font-size: 20px;
+  font-size: 1.5vw;
 }
 .cid-qVpyORkkY5 p {
   margin-bottom: 0;
@@ -4382,13 +4418,17 @@ body {
   height: 3vw;
   width: 10.4vw;
   font-size: 1vw;
+  padding-left: 0;
+  padding-right: 0;
 }
 @media screen and (max-width: 350px) {
   .cid-qVpyORkkY5 a {
     font-size: 0.1vw;
   }
   .cid-qVpyORkkY5 .btn {
-    width: 125px;
+    width: 100px;
+    padding-left: 0;
+    padding-right: 0;
   }
   .cid-qVpyORkkY5 .card-img img {
     height: 40vw;
@@ -4399,14 +4439,14 @@ body {
     font-size: 3vw;
   }
 }
-#custom-html-44 {
+#custom-html-4b {
   /* Type valid CSS here */
 }
-#custom-html-44 .foter {
+#custom-html-4b .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
-#custom-html-44 .kontent {
+#custom-html-4b .kontent {
   position: relative;
   height: 80%;
   width: 95%;
@@ -4414,47 +4454,49 @@ body {
   top: 20%;
   text-align: center;
 }
-#custom-html-44 .col-left {
+#custom-html-4b .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
 }
-#custom-html-44 .col-right {
+#custom-html-4b .col-right {
   height: 100%;
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
-#custom-html-44 img {
+#custom-html-4b img {
   height: auto;
   width: 11vw;
 }
-#custom-html-44 .header {
+#custom-html-4b .header {
   font-family: 'Lora', serif;
   font-size: 1.3vw;
 }
-#custom-html-44 .text {
+#custom-html-4b .text {
   font-family: 'Lora', serif;
   font-size: 0.95vw;
 }
 @media screen and (max-width: 400px) {
-  #custom-html-44 .header {
+  #custom-html-4b .header {
     font-size: 9px;
   }
-  #custom-html-44 .text {
+  #custom-html-4b .text {
     font-size: 7px;
   }
-  #custom-html-44 .col-right {
+  #custom-html-4b .col-right {
     width: 30vw;
     margin: 0px;
   }
-  #custom-html-44 .col-left {
+  #custom-html-4b .col-left {
     width: 30vw;
   }
-  #custom-html-44 img {
+  #custom-html-4b img {
     width: 25vw;
   }
 }
@@ -4873,14 +4915,14 @@ body {
     flex-shrink: 0;
   }
 }
-#custom-html-45 {
+#custom-html-4c {
   /* Type valid CSS here */
 }
-#custom-html-45 .foter {
+#custom-html-4c .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
-#custom-html-45 .kontent {
+#custom-html-4c .kontent {
   position: relative;
   height: 80%;
   width: 95%;
@@ -4888,47 +4930,49 @@ body {
   top: 20%;
   text-align: center;
 }
-#custom-html-45 .col-left {
+#custom-html-4c .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
 }
-#custom-html-45 .col-right {
+#custom-html-4c .col-right {
   height: 100%;
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
-#custom-html-45 img {
+#custom-html-4c img {
   height: auto;
   width: 11vw;
 }
-#custom-html-45 .header {
+#custom-html-4c .header {
   font-family: 'Lora', serif;
   font-size: 1.3vw;
 }
-#custom-html-45 .text {
+#custom-html-4c .text {
   font-family: 'Lora', serif;
   font-size: 0.95vw;
 }
 @media screen and (max-width: 400px) {
-  #custom-html-45 .header {
+  #custom-html-4c .header {
     font-size: 9px;
   }
-  #custom-html-45 .text {
+  #custom-html-4c .text {
     font-size: 7px;
   }
-  #custom-html-45 .col-right {
+  #custom-html-4c .col-right {
     width: 30vw;
     margin: 0px;
   }
-  #custom-html-45 .col-left {
+  #custom-html-4c .col-left {
     width: 30vw;
   }
-  #custom-html-45 img {
+  #custom-html-4c img {
     width: 25vw;
   }
 }
@@ -5347,14 +5391,14 @@ body {
     flex-shrink: 0;
   }
 }
-#custom-html-3s {
+#custom-html-4d {
   /* Type valid CSS here */
 }
-#custom-html-3s .foter {
-  height: 170px;
-  background: #aaaaaa;
+#custom-html-4d .foter {
+  height: 23vh;
+  background: #2e2e2e;
 }
-#custom-html-3s .kontent {
+#custom-html-4d .kontent {
   position: relative;
   height: 80%;
   width: 95%;
@@ -5362,27 +5406,51 @@ body {
   top: 20%;
   text-align: center;
 }
-#custom-html-3s .col-left {
+#custom-html-4d .col-left {
   height: 100%;
-  width: 300px;
+  width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
 }
-#custom-html-3s .col-right {
+#custom-html-4d .col-right {
   height: 100%;
-  width: 300px;
+  width: 20vw;
   color: white;
   float: right;
-  margin-right: 50px;
+  text-align: left;
+  margin-right: 3vw;
 }
-#custom-html-3s .header {
-  font-family: 'Lora', serif;
-  font-size: 20px;
+#custom-html-4d img {
+  height: auto;
+  width: 11vw;
 }
-#custom-html-3s .text {
+#custom-html-4d .header {
   font-family: 'Lora', serif;
-  font-size: 14px;
+  font-size: 1.3vw;
+}
+#custom-html-4d .text {
+  font-family: 'Lora', serif;
+  font-size: 0.95vw;
+}
+@media screen and (max-width: 400px) {
+  #custom-html-4d .header {
+    font-size: 9px;
+  }
+  #custom-html-4d .text {
+    font-size: 7px;
+  }
+  #custom-html-4d .col-right {
+    width: 30vw;
+    margin: 0px;
+  }
+  #custom-html-4d .col-left {
+    width: 30vw;
+  }
+  #custom-html-4d img {
+    width: 25vw;
+  }
 }
 .cid-qLtLJ4fOQj {
   padding-top: 275px;
@@ -5782,14 +5850,14 @@ body {
     flex-shrink: 0;
   }
 }
-#custom-html-47 {
+#custom-html-4e {
   /* Type valid CSS here */
 }
-#custom-html-47 .foter {
+#custom-html-4e .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
-#custom-html-47 .kontent {
+#custom-html-4e .kontent {
   position: relative;
   height: 80%;
   width: 95%;
@@ -5797,47 +5865,49 @@ body {
   top: 20%;
   text-align: center;
 }
-#custom-html-47 .col-left {
+#custom-html-4e .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
 }
-#custom-html-47 .col-right {
+#custom-html-4e .col-right {
   height: 100%;
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
-#custom-html-47 img {
+#custom-html-4e img {
   height: auto;
   width: 11vw;
 }
-#custom-html-47 .header {
+#custom-html-4e .header {
   font-family: 'Lora', serif;
   font-size: 1.3vw;
 }
-#custom-html-47 .text {
+#custom-html-4e .text {
   font-family: 'Lora', serif;
   font-size: 0.95vw;
 }
 @media screen and (max-width: 400px) {
-  #custom-html-47 .header {
+  #custom-html-4e .header {
     font-size: 9px;
   }
-  #custom-html-47 .text {
+  #custom-html-4e .text {
     font-size: 7px;
   }
-  #custom-html-47 .col-right {
+  #custom-html-4e .col-right {
     width: 30vw;
     margin: 0px;
   }
-  #custom-html-47 .col-left {
+  #custom-html-4e .col-left {
     width: 30vw;
   }
-  #custom-html-47 img {
+  #custom-html-4e img {
     width: 25vw;
   }
 }
@@ -6239,14 +6309,14 @@ body {
     flex-shrink: 0;
   }
 }
-#custom-html-46 {
+#custom-html-4f {
   /* Type valid CSS here */
 }
-#custom-html-46 .foter {
+#custom-html-4f .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
-#custom-html-46 .kontent {
+#custom-html-4f .kontent {
   position: relative;
   height: 80%;
   width: 95%;
@@ -6254,53 +6324,55 @@ body {
   top: 20%;
   text-align: center;
 }
-#custom-html-46 .col-left {
+#custom-html-4f .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
 }
-#custom-html-46 .col-right {
+#custom-html-4f .col-right {
   height: 100%;
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
-#custom-html-46 img {
+#custom-html-4f img {
   height: auto;
   width: 11vw;
 }
-#custom-html-46 .header {
+#custom-html-4f .header {
   font-family: 'Lora', serif;
   font-size: 1.3vw;
 }
-#custom-html-46 .text {
+#custom-html-4f .text {
   font-family: 'Lora', serif;
   font-size: 0.95vw;
 }
 @media screen and (max-width: 400px) {
-  #custom-html-46 .header {
+  #custom-html-4f .header {
     font-size: 9px;
   }
-  #custom-html-46 .text {
+  #custom-html-4f .text {
     font-size: 7px;
   }
-  #custom-html-46 .col-right {
+  #custom-html-4f .col-right {
     width: 30vw;
     margin: 0px;
   }
-  #custom-html-46 .col-left {
+  #custom-html-4f .col-left {
     width: 30vw;
   }
-  #custom-html-46 img {
+  #custom-html-4f img {
     width: 25vw;
   }
 }
 .cid-qO7Gpi3nwV {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-qO7Gpi3nwV .mbr-iconfont {
@@ -6832,14 +6904,14 @@ body {
     flex-shrink: 0;
   }
 }
-#custom-html-48 {
+#custom-html-4g {
   /* Type valid CSS here */
 }
-#custom-html-48 .foter {
+#custom-html-4g .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
-#custom-html-48 .kontent {
+#custom-html-4g .kontent {
   position: relative;
   height: 80%;
   width: 95%;
@@ -6847,47 +6919,53 @@ body {
   top: 20%;
   text-align: center;
 }
-#custom-html-48 .col-left {
+#custom-html-4g .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
 }
-#custom-html-48 .col-right {
+#custom-html-4g .col-right {
   height: 100%;
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
-#custom-html-48 img {
+#custom-html-4g img {
   height: auto;
   width: 11vw;
 }
-#custom-html-48 .header {
+#custom-html-4g a {
+  color: white;
+}
+#custom-html-4g .header {
   font-family: 'Lora', serif;
   font-size: 1.3vw;
 }
-#custom-html-48 .text {
+#custom-html-4g .text {
   font-family: 'Lora', serif;
   font-size: 0.95vw;
+  color: white;
 }
 @media screen and (max-width: 400px) {
-  #custom-html-48 .header {
+  #custom-html-4g .header {
     font-size: 9px;
   }
-  #custom-html-48 .text {
+  #custom-html-4g .text {
     font-size: 7px;
   }
-  #custom-html-48 .col-right {
+  #custom-html-4g .col-right {
     width: 30vw;
     margin: 0px;
   }
-  #custom-html-48 .col-left {
+  #custom-html-4g .col-left {
     width: 30vw;
   }
-  #custom-html-48 img {
+  #custom-html-4g img {
     width: 25vw;
   }
 }
@@ -7339,7 +7417,7 @@ body {
 }
 #custom-html-40 .foter {
   height: 23vh;
-  background: #aaaaaa;
+  background: #2e2e2e;
 }
 #custom-html-40 .kontent {
   position: relative;
@@ -7352,6 +7430,7 @@ body {
 #custom-html-40 .col-left {
   height: 100%;
   width: 20vw;
+  text-align: left;
   color: white;
   margin: none;
   float: left;
@@ -7361,6 +7440,7 @@ body {
   width: 20vw;
   color: white;
   float: right;
+  text-align: left;
   margin-right: 3vw;
 }
 #custom-html-40 img {
