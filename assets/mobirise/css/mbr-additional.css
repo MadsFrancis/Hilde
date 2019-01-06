@@ -2192,8 +2192,8 @@ body {
   }
 }
 .cid-qISmgGOAQj {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/oliver-cole-112209-unsplash-2000x1089.jpg");
 }
 #custom-html-l .Content {
@@ -2204,19 +2204,25 @@ body {
   padding-top: 15px;
   padding-bottom: 50px;
 }
+#custom-html-l .Box {
+  margin: auto;
+  border-bottom: 1px solid lightgrey;
+  width: 10%;
+  height: 10px;
+}
 #custom-html-l .Subheader {
   font-family: raleway;
   font-weight: normal;
   letter-spacing: 2px;
   margin: auto;
   max-width: 80%;
-  font-size: 2.6vw;
+  font-size: 2vw;
   border-top: 1px solid lightgrey;
-  padding-bottom: 10px;
-  padding-top: 30px;
+  padding-bottom: 15px;
+  padding-top: 20px;
 }
 #custom-html-l .Info {
-  padding-top: 10px;
+  padding-top: 27px;
   font-size: 1.15vw;
   font-family: Raleway;
   margin: auto;
@@ -2682,7 +2688,7 @@ body {
 }
 .cid-qL81bE77qV {
   padding-top: 165px;
-  padding-bottom: 135px;
+  padding-bottom: 60px;
   position: relative;
   top: 30%;
   bottom: ;
@@ -2690,7 +2696,7 @@ body {
 }
 #custom-html-1s .medarbeidere {
   width: 100%;
-  height: 435px;
+  height: 510px;
   background-color: white;
 }
 #custom-html-1s .konteiner {
@@ -3272,7 +3278,7 @@ body {
   font-weight: normal;
   text-align: center;
   letter-spacing: 2px;
-  font-size: 2.6vw;
+  font-size: 2vw;
   margin: auto;
   margin-bottom: 30px;
   max-width: 100%;
@@ -3300,7 +3306,7 @@ body {
   line-height: 35px;
 }
 #custom-html-1m h4 {
-  font-size: 1.6vw;
+  font-size: 1.3vw;
   font-weight: bold;
   text-align: left;
 }
@@ -3782,17 +3788,23 @@ body {
   padding-top: 110px;
   padding-bottom: 50px;
 }
+#custom-html-1o .Box {
+  margin: auto;
+  border-top: 1px solid lightgrey;
+  width: 10%;
+}
 #custom-html-1o .Subheader {
   font-family: raleway;
   font-weight: normal;
   text-align: center;
   letter-spacing: 2px;
-  font-size: 2.6vw;
+  font-size: 2vw;
   margin: auto;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   max-width: 100%;
-  border-bottom: 1px solid;
-  padding-bottom: 10px;
+  border-bottom: 1px solid white;
+  border-top: 1px solid lightgrey;
+  padding-bottom: 0px;
   padding-top: 30px;
 }
 #custom-html-1o .Info {
@@ -3814,7 +3826,7 @@ body {
   line-height: 35px;
 }
 #custom-html-1o h4 {
-  font-size: 1.6vw;
+  font-size: 1.3vw;
   font-weight: bold;
   text-align: left;
 }
@@ -7370,18 +7382,24 @@ body {
   background-color: white;
   text-align: left;
   padding-top: 15px;
-  padding-bottom: 28.5px;
+  padding-bottom: 16px;
+}
+#custom-html-2f .Box {
+  margin: auto;
+  border-bottom: 1px solid lightgrey;
+  width: 50%;
+  height: 10px;
 }
 #custom-html-2f .Subheader {
-  font-family: Raleway;
+  font-family: raleway;
   font-weight: normal;
   letter-spacing: 2px;
   margin: auto;
   max-width: 80%;
-  font-size: 2.6vw;
-  border-bottom: 1px solid;
-  padding-bottom: 10px;
-  padding-top: 30px;
+  font-size: 2vw;
+  padding-bottom: 15px;
+  padding-top: 20px;
+  text-align: center;
 }
 #custom-html-2f .Subsubheader {
   font-family: raleway;
