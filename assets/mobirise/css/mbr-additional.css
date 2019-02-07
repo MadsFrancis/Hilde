@@ -6971,14 +6971,12 @@ body {
 .cid-qO7Gpi3nwV .left-box {
   float: left;
   width: 50%;
-  height: 100px;
-  border: solid 1px;
+  height: auto;
 }
 .cid-qO7Gpi3nwV .right-box {
   float: right;
   width: 50%;
-  height: 100px;
-  border: solid 1px;
+  height: auto;
 }
 .cid-qO7Gpi3nwV .icon-block {
   margin-bottom: 10px;
@@ -7041,12 +7039,7 @@ body {
 .cid-qO7Gpi3nwV .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-@media (max-width: 767px) {
-  .cid-qO7Gpi3nwV h2 {
-    padding-top: 2rem;
-  }
-}
-@media (min-width: 768px) {
+@media screen and (min-width: 800px) {
   .cid-qO7Gpi3nwV .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
@@ -7059,38 +7052,61 @@ body {
   height: 600px;
   margin: auto;
 }
+.cid-qO7Gpi3nwV h2 {
+  padding-top: 2rem;
+}
 .cid-qO7Gpi3nwV h3 {
   font-size: 3vw;
 }
 .cid-qO7Gpi3nwV h5 {
-  font-size: 1.1vw;
+  font-size: 1.2vw;
 }
 .cid-qO7Gpi3nwV p {
   font-size: 1vw;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 790px) {
   .cid-qO7Gpi3nwV h3 {
     padding-right: 120px;
     font-size: 4vw;
   }
   .cid-qO7Gpi3nwV h5 {
-    padding-right: 120px;
-    font-size: 2vw;
+    padding-right: 0px;
+    font-size: 1vw;
   }
   .cid-qO7Gpi3nwV p {
-    font-size: 2vw;
+    font-size: 0.5vw;
   }
 }
 @media screen and (max-width: 400px) {
   .cid-qO7Gpi3nwV h3 {
-    padding-right: 70px;
-    font-size: 5vw;
+    font-size: 7vw;
+    padding-right: 0px;
   }
   .cid-qO7Gpi3nwV h5 {
-    font-size: 3vw;
+    font-size: 4vw;
+    padding: 0;
   }
   .cid-qO7Gpi3nwV p {
-    font-size: 2vw;
+    font-size: 3.5vw;
+  }
+  .cid-qO7Gpi3nwV .left-box {
+    float: left;
+    width: 100%;
+    height: auto;
+  }
+  .cid-qO7Gpi3nwV .right-box {
+    float: right;
+    width: 100%;
+    height: auto;
+  }
+  .cid-qO7Gpi3nwV .icon-contacts {
+    margin-bottom: 30%;
+  }
+  .cid-qO7Gpi3nwV .contain {
+    margin-bottom: 30vh;
+  }
+  .cid-qO7Gpi3nwV .pb-3 .align-left .mbr-fonts-style {
+    border: solid 1px;
   }
 }
 #custom-html-4g {
@@ -7549,7 +7565,7 @@ body {
     flex-shrink: 0;
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
   .cid-rhoo2ZinRr .menu-logo {
     margin-right: auto;
   }
