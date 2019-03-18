@@ -3649,6 +3649,7 @@ body {
   width: 10%;
 }
 #custom-html-1o .Subheader {
+  -webkit-font-family: raleway;
   font-family: raleway;
   font-weight: normal;
   text-align: center;
@@ -3662,10 +3663,15 @@ body {
   padding-bottom: 0px;
   padding-top: 2vw;
 }
+#custom-html-1o h1 {
+  -webkit-font-family: raleway;
+  font-family: raleway;
+}
 #custom-html-1o .Info {
   padding-bottom: 10px;
   font-size: 1.2vw;
-  font-family: Raleway;
+  -webkit-font-family: raleway;
+  font-family: raleway;
   text-align: left;
   max-width: 100%;
   letter-spacing: 0.8px;
@@ -3674,6 +3680,7 @@ body {
 #custom-html-1o .Erfaring {
   padding-bottom: 10px;
   font-size: 1.2vw;
+  -webkit-font-family: raleway;
   font-family: Raleway;
   text-align: left;
   max-width: 100%;
