@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "kontakt.html",
+    "currentPage": "Carl-Fredrik Setsaas.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 193,
     "versionPublish": "4.3.4",
@@ -2151,7 +2151,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"Kompetanse\" style=\"background-color: white; padding-top: 50px; padding-bottom:0px; min-height:77vh;\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n            <h1 class=\"Subheader\">Carl-Fredrik Setsaas</h1> \n        <div class=\"Box\"></div>\n            <h4>UTDANNELSE</h4>\n        <p class=\"Info\"> Cand. jur, Universitetet i Oslo, 2002<br>\n            Advokatbevilling 2010<br> </p>\n        \n            <h4>TIDLIGERE PRAKSIS</h4>\n        <p class=\"Info\">\n            <strong>2017 – :</strong> Advokatfirma Vale &amp; Co.\n            <br><strong>2009 - 2017:</strong> Advokatfirmaet Salomon-Johansen AS\n            <br> <strong> 2006 - 2009:</strong> Advokatfullmektig i Advokatfirmaet Setsaas &amp; Co\n            <br><strong> 2002 – 2006:</strong> Næringsetaten, Oslo kommune\n            \n        </p>\n        <h4>ERFARING</h4>\n        <p class=\"Erfaring\">\n            <br>\n            Setsaas har lang og bred erfaring som advokat. Hans praksis omfatter både rådgivning, forhandling og prosedyre. De siste årene har Setsaas i hovedsak arbeidet med ekspropriasjonssaker. Han representerer private grunneiere som blir utsatt for ekspropriasjon fra offentlig myndighet (Statens vegvesen, Bane Nor, Nye Veier og kommuner) eller private utbyggere.\n            \n        </p>\n           \n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"Kompetanse\" style=\"background-color: white; padding-top: 50px; padding-bottom:0px; min-height:77vh;\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n            <h1 class=\"Subheader\">Carl-Fredrik Setsaas</h1> \n        <div class=\"Box\"></div>\n            <h4>UTDANNELSE</h4>\n        <p class=\"Info\"> Cand. jur, Universitetet i Oslo, 2002<br>\n            Advokatbevilling 2010<br> </p>\n        \n            <h4>TIDLIGERE PRAKSIS</h4>\n        <p class=\"Info\">\n            <strong>2017 – :</strong> Advokatfirma Vale &amp; Co.\n            <br><strong>2009 - 2017:</strong> Advokatfirmaet Salomon-Johansen AS\n            <br> <strong> 2006 - 2009:</strong> Advokatfullmektig i Advokatfirmaet Setsaas &amp; Co / Setsaas Eiendom og Finans AS\n            <br><strong> 2002 – 2006:</strong> Næringsetaten, Oslo kommune\n            \n        </p>\n        <h4>ERFARING</h4>\n        <p class=\"Erfaring\">\n            <br>\n            Setsaas har lang og bred erfaring som advokat innen flere rettsområder, derunder fast eiendom, arbeidsrett, kontraktsrett, erstatning, familie, arv og skifte. Hans praksis omfatter både rådgivning, utenrettslige forhandlinger og prosedyre.<br>\n\nDe siste årene har Setsaas i hovedsak arbeidet med ekspropriasjonssaker, blant annet representert en rekke boligeiere og eiere av landbrukseiendommer ifm Intercity-utbygginger gjennom Østfold og Vestfold, samt ifm ulike veiprosjekter og andre utbyggingsprosjekter i Østlandsområdet.<br> \n\nSetsaas representerer private grunneiere som blir utsatt for ekspropriasjon fra offentlig myndighet (Statens vegvesen, Bane Nor, Nye Veier og kommuner) samt private utbyggere.\n            \n        </p>\n           \n    </div>\n</section>",
           "_customCSS": ".Content{\n    margin: auto;\n    max-width: 70%;\n    background-color: white;\n    padding-top: 110px;\n    padding-bottom: 50px;\n}\n\n.Box{\n    margin:auto;\n    border-top: 1px solid lightgrey;\n    width: 10%;\n}\n\n.Subheader{\n    font-family: raleway;\n    font-weight: normal;\n    text-align: center;\n    letter-spacing: 2px;\n    font-size: 2vw;\n    margin: auto;\n    margin-bottom: 2vw;\n    max-width:100%;\n    border-bottom: 1px solid white; \n    border-top: 1px solid lightgrey; \n    padding-bottom: 0px; \n    padding-top: 2vw; \n    \n}\n\n.Info{\n    padding-bottom: 10px;\n    font-size: 1.2vw;\n    font-family: Raleway;\n    text-align: left;\n    max-width: 100%;\n    letter-spacing: 0.8px;\n    line-height: 4vh;\n\n}\n\n.Erfaring{\n    padding-bottom: 10px;\n    font-size: 1.2vw;\n    font-family: Raleway;\n    text-align: left;\n    max-width: 100%;\n    letter-spacing: 0.8px;\n    line-height: 4vh;\n}\n\nh4 {\n    font-size: 1.3vw;\n    font-weight: bold;\n    text-align: left;\n    //padding-left: 120px;\n}\n\np {\n    text-align: center;\n   // padding-left: 120px;\n}\n\nimg{\n    //height:auto;\n    width:36vh;\n}\n\n@media screen and (max-width: 400px) {\n  .Subheader {\n    font-size: 2.3vh;\n  }\n    h4{\n    font-size: 2.4vw; \n    }\n  .Subsubheader {\n    font-size: 1.4vw;\n  }\n    .Info {\n    font-size: 2vw;\n    padding-bottom:0px;\n        line-height:2vh;\n  }\n        .Erfaring {\n    font-size: 2vw;\n    padding-bottom:0px;\n        line-height:2vh;\n  }\n    .Content{\n        padding-top:70px;\n        padding-bottom:10px;\n    }\n    img{\n        width:55vw;\n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -2851,7 +2851,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x233.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x2318.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #2e2e2e;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n    text-align:left;  \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    text-align:left;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -3813,7 +3813,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x234.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x2319.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #2e2e2e;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n    text-align:left;  \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    text-align:left;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -3871,7 +3871,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x234.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x2319.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #2e2e2e;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n    text-align:left;  \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    text-align:left;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -4369,7 +4369,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x233.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x2318.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #2e2e2e;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n    text-align:left;  \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    text-align:left;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -4867,7 +4867,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x233.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x2318.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #2e2e2e;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n    text-align:left;  \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    text-align:left;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -5529,7 +5529,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x233.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> <a href=\"mailto:vale@valeogkjeldsberg.no\">setsaas@valeco.no </a>   </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> <a href=\"mailto:vale@valeogkjeldsberg.no\">vale@valeogkjeldsberg.no </a>  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x2318.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> <a href=\"mailto:vale@valeogkjeldsberg.no\">setsaas@valeco.no </a>   </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> <a href=\"mailto:vale@valeogkjeldsberg.no\">vale@valeogkjeldsberg.no </a>  </p>\n            \n        </div>\n    </div>\n</section>",
           "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #2e2e2e;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:95%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n    text-align:left;  \n    color:white;\n    margin:none;\n    float:left;\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    text-align:left;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\na {\n    color: white;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n    color: white;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n      margin: 0px;\n  }\n  .col-left {\n   width: 30vw;\n  }\n    img {\n       width:25vw; \n    }\n}",
           "alias": "code-editor",
           "_tags": [
@@ -5994,504 +5994,6 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
-        }
-      ]
-    },
-    "page12.html": {
-      "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "betingelser",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".navbar": {
-              "padding": "1rem 0",
-              "background": "@menuBgColor",
-              "transition": "none",
-              "min-height": "77px"
-            },
-            ".navbar-dropdown.bg-color.transparent.opened": {
-              "background": "@menuBgColor"
-            },
-            "a": {
-              "font-style": "normal"
-            },
-            ".nav-item": {
-              "font-family": "'Open San'",
-              "& span": {
-                "padding-right": "1.0em",
-                "line-height": "0.5em",
-                "vertical-align": "text-bottom",
-                "position": "relative",
-                "top": "-0.2em",
-                "text-decoration": "none"
-              },
-              "& a": {
-                "padding": ".6rem 0 !important",
-                "margin": "0rem .3rem !important"
-              }
-            },
-            ".btn": {
-              "padding": "0.4rem 1.5rem",
-              ".mbr-iconfont": {
-                "font-size": "1.6rem"
-              },
-              "display": "inline-flex",
-              "align-items": "right"
-            },
-            ".menu-logo": {
-              "margin-right": "auto",
-              ".navbar-brand": {
-                "display": "flex",
-                "margin-left": "5rem",
-                "padding": "0",
-                "transition": "padding .2s",
-                "min-height": "3.8rem",
-                "align-items": "center",
-                ".navbar-caption-wrap": {
-                  "display": "-webkit-flex",
-                  "-webkit-align-items": "center",
-                  "align-items": "center",
-                  "word-break": "break-word",
-                  "min-width": "7rem",
-                  "margin": ".3rem 0",
-                  "color": "black",
-                  ".navbar-caption": {
-                    "line-height": "1.2rem !important",
-                    "padding-right": "2rem",
-                    "font-family": "'Lora', serif",
-                    "letter-spacing": "5px",
-                    "text-align": "center",
-                    "color": "black",
-                    "margin": "auto"
-                  },
-                  ".logo-top": {
-                    "border-bottom": "1px solid",
-                    "font-size": "15px"
-                  }
-                },
-                ".navbar-logo": {
-                  "font-size": "4rem",
-                  "transition": "font-size 0.25s",
-                  "& img": {
-                    "display": "flex"
-                  },
-                  ".mbr-iconfont": {
-                    "transition": "font-size 0.25s"
-                  }
-                }
-              }
-            },
-            ".navbar-toggleable-sm .navbar-collapse": {
-              "justify-content": "flex-end",
-              "-webkit-justify-content": "flex-end",
-              "padding-right": "5rem",
-              "width": "auto",
-              ".navbar-nav": {
-                "flex-wrap": "wrap",
-                "-webkit-flex-wrap": "wrap",
-                "padding-left": "0",
-                ".nav-item": {
-                  "-webkit-align-self": "center",
-                  "align-self": "center",
-                  "font-family": "'Lora', serif"
-                }
-              },
-              ".navbar-buttons": {
-                "padding-left": "0",
-                "padding-bottom": "0",
-                "font-family": "'Lora', serif"
-              }
-            },
-            ".dropdown": {
-              ".dropdown-menu": {
-                "background": "@menuBgColor",
-                "display": "none",
-                "position": "absolute",
-                "min-width": "5rem",
-                "padding-top": "1.4rem",
-                "padding-bottom": "1.4rem",
-                "text-align": "left",
-                ".dropdown-item": {
-                  "width": "auto",
-                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
-                  "&::after": {
-                    "right": "0.5rem"
-                  }
-                },
-                ".dropdown-submenu": {
-                  "margin": "0"
-                }
-              },
-              "&.open > .dropdown-menu": {
-                "display": "block"
-              }
-            },
-            ".navbar-toggleable-sm": {
-              "&.opened:after": {
-                "position": "absolute",
-                "width": "100vw",
-                "height": "100vh",
-                "content": "''",
-                "background-color": "rgb(0, 0, 0, 0.1)",
-                "left": "0",
-                "bottom": "0",
-                "transform": "translateY(100%)",
-                "-webkit-transform": "translateY(100%)",
-                "z-index": "1000"
-              }
-            },
-            ".navbar.navbar-short": {
-              "min-height": "70px",
-              "transition": "all .2s",
-              "& .navbar-toggler-right": {
-                "top": "20px"
-              },
-              "& .navbar-logo a": {
-                "font-size": "2.5rem !important",
-                "line-height": "2.5rem",
-                "transition": "font-size 0.25s",
-                "& .mbr-iconfont": {
-                  "font-size": "5rem !important"
-                },
-                "& img": {
-                  "height": "3rem !important"
-                }
-              },
-              "& .navbar-brand": {
-                "min-height": "3rem"
-              }
-            },
-            "button.navbar-toggler": {
-              "width": "31px",
-              "height": "18px",
-              "cursor": "pointer",
-              "transition": "all .2s",
-              "top": "1.5rem",
-              "right": "1rem",
-              "&:focus": {
-                "outline": "none"
-              },
-              ".hamburger span": {
-                "position": "absolute",
-                "right": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "top": "0",
-                  "transition": "all .2s"
-                },
-                "&:nth-child(2)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(3)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(4)": {
-                  "top": "16px",
-                  "transition": "all .2s"
-                }
-              }
-            },
-            "nav.opened .hamburger span": {
-              "&:nth-child(1)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all .2s"
-              },
-              "&:nth-child(2)": {
-                "-webkit-transform": "rotate(45deg)",
-                "transform": "rotate(45deg)",
-                "transition": "all .25s"
-              },
-              "&:nth-child(3)": {
-                "-webkit-transform": "rotate(-45deg)",
-                "transform": "rotate(-45deg)",
-                "transition": "all .25s"
-              },
-              "&:nth-child(4)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all .2s"
-              }
-            },
-            ".collapsed": {
-              "&.navbar-expand": {
-                "flex-direction": "column"
-              },
-              ".btn": {
-                "display": "flex"
-              },
-              ".navbar-collapse": {
-                "display": "none !important",
-                "padding-right": "0 !important",
-                "&.collapsing,&.show": {
-                  "display": "block !important",
-                  ".navbar-nav": {
-                    "display": "block",
-                    "text-align": "center",
-                    ".nav-item": {
-                      "clear": "both",
-                      "& when (@showButtons = false)": {
-                        "&:last-child": {
-                          "margin-bottom": "1rem"
-                        }
-                      }
-                    }
-                  },
-                  ".navbar-buttons": {
-                    "text-align": "center",
-                    "&:last-child": {
-                      "margin-bottom": "1rem"
-                    }
-                  }
-                }
-              },
-              "button.navbar-toggler": {
-                "display": "block"
-              },
-              ".navbar-brand": {
-                "margin-left": "1rem !important"
-              },
-              ".navbar-toggleable-sm": {
-                "flex-direction": "column",
-                "-webkit-flex-direction": "column"
-              },
-              ".dropdown": {
-                ".dropdown-menu": {
-                  "width": "100%",
-                  "text-align": "center",
-                  "position": "relative",
-                  "opacity": "0",
-                  "display": "block",
-                  "height": "0",
-                  "visibility": "hidden",
-                  "padding": "0",
-                  "transition-duration": ".5s",
-                  "transition-property": "opacity,padding,height"
-                },
-                "&.open > .dropdown-menu": {
-                  "position": "relative",
-                  "opacity": "1",
-                  "height": "auto",
-                  "padding": "1.4rem 0",
-                  "visibility": "visible"
-                },
-                ".dropdown-submenu": {
-                  "left": "0",
-                  "text-align": "center",
-                  "width": "100%"
-                },
-                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
-                  "margin-top": "0",
-                  "position": "inherit",
-                  "right": "0",
-                  "top": "50%",
-                  "display": "inline-block",
-                  "width": "0",
-                  "height": "0",
-                  "margin-left": ".3em",
-                  "vertical-align": "middle",
-                  "content": "\"\"",
-                  "border-top": ".30em solid",
-                  "border-right": ".30em solid transparent",
-                  "border-left": ".30em solid transparent"
-                }
-              }
-            },
-            "@media (max-width: 1200px)": {
-              ".navbar-expand": {
-                "flex-direction": "column"
-              },
-              "img": {
-                "height": "3.8rem !important"
-              },
-              ".btn": {
-                "display": "flex"
-              },
-              "button.navbar-toggler": {
-                "display": "block"
-              },
-              ".navbar-brand": {
-                "margin-left": "1rem !important"
-              },
-              ".navbar-toggleable-sm": {
-                "flex-direction": "column",
-                "-webkit-flex-direction": "column"
-              },
-              ".navbar-collapse": {
-                "display": "none !important",
-                "padding-right": "0 !important",
-                "&.collapsing,&.show": {
-                  "display": "block !important",
-                  ".navbar-nav": {
-                    "display": "block",
-                    "text-align": "center",
-                    ".nav-item": {
-                      "clear": "both",
-                      "& when (@showButtons = false)": {
-                        "&:last-child": {
-                          "margin-bottom": "1rem"
-                        }
-                      }
-                    }
-                  },
-                  ".navbar-buttons": {
-                    "text-align": "center",
-                    "&:last-child": {
-                      "margin-bottom": "1rem"
-                    }
-                  }
-                }
-              },
-              ".dropdown": {
-                ".dropdown-menu": {
-                  "width": "100%",
-                  "text-align": "center",
-                  "position": "relative",
-                  "opacity": "0",
-                  "display": "block",
-                  "height": "0",
-                  "visibility": "hidden",
-                  "padding": "0",
-                  "transition-duration": ".5s",
-                  "transition-property": "opacity,padding,height"
-                },
-                "&.open > .dropdown-menu": {
-                  "position": "relative",
-                  "opacity": "0",
-                  "height": "auto",
-                  "padding": "1.4rem 0",
-                  "visibility": "visible"
-                },
-                ".dropdown-submenu": {
-                  "left": "0",
-                  "text-align": "center",
-                  "width": "100%"
-                },
-                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
-                  "margin-top": "0",
-                  "position": "inherit",
-                  "right": "0",
-                  "top": "50%",
-                  "display": "inline-block",
-                  "width": "0",
-                  "height": "0",
-                  "margin-left": ".3em",
-                  "vertical-align": "middle",
-                  "content": "\"\"",
-                  "border-top": ".30em solid",
-                  "border-right": ".30em solid transparent",
-                  "border-left": ".30em solid transparent"
-                }
-              }
-            },
-            "@media (min-width: 700px)": {
-              ".menu-logo": {
-                "flex-shrink": "0"
-              }
-            },
-            "@media screen and (max-width: 400px)": {
-              ".menu-logo": {
-                "margin-right": "auto",
-                "margin-top": "0px",
-                "padding-top": "0px",
-                ".navbar-brand": {
-                  "display": "flex",
-                  "margin-left": "5rem",
-                  "padding": "0",
-                  "transition": "padding .2s",
-                  "min-height": "3.8rem",
-                  "align-items": "center",
-                  "margin-top": "0px",
-                  "padding-top": "0px",
-                  ".navbar-caption-wrap": {
-                    "display": "-webkit-flex",
-                    "-webkit-align-items": "center",
-                    "align-items": "center",
-                    "word-break": "break-word",
-                    "min-width": "7rem",
-                    "margin": ".1rem 0",
-                    "color": "black",
-                    "margin-top": "0px",
-                    "padding-top": "0px",
-                    ".navbar-caption": {
-                      "line-height": "1.2rem !important",
-                      "padding-right": "2rem",
-                      "font-family": "'Lora', serif",
-                      "letter-spacing": "5px",
-                      "text-align": "center",
-                      "color": "black",
-                      "margin": "auto",
-                      "font-size": "3vw",
-                      "margin-top": "0px",
-                      "padding-top": "0px"
-                    },
-                    ".logo-top": {
-                      "border-bottom": "1px solid",
-                      "font-size": "3vw",
-                      "margin-top": "0px",
-                      "padding-top": "0px"
-                    }
-                  },
-                  ".navbar-logo": {
-                    "font-size": "4rem",
-                    "transition": "font-size 0.25s",
-                    "margin-top": "0px",
-                    "padding-top": "0px",
-                    "& img": {
-                      "display": "flex"
-                    },
-                    ".mbr-iconfont": {
-                      "transition": "font-size 0.25s"
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://mobirise.com\">\n                         <img src=\"@PROJECT_PATH@/assets/images/logo2.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"index.html\"><div class=\"logo-top\">ADVOKATFIRMA</div>Vale &amp; co</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"kompetanse.html#header1-k\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        KOMPETANSE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"medarbeidere.html\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        MEDARBEIDERE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"artikler.html\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        ARTIKLER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        BETINGELSER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"kontakt.html\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        KONTAKT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\">\n                <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">\n                    <span class=\"mbri-save mbr-iconfont mbr-iconfont-btn \" data-app-selector=\".mbr-iconfont-btn\"></span>\n                    Try It Now!\n                </a>\n            </div>\n        </div>\n    </nav>\n</section>",
-          "_anchor": "menu1-4n",
-          "_cid": "renObNIkqF",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "menu",
-          "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"Arbeidsomrader\" style=\" background-color: white; padding-top: 100px; padding-bottom: 30px;\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n        <h1 class=\"Subheader\">VÅRE PRISER OG BETINGELSER</h1>   \n        <div class=\"Box\"></div>\n        <h5 class=\"Subsubheader\"> Priser / omkostninger</h5>\n            <p class=\"Info\">\n\n\nVåre timespriser ligger normalt mellom kr 2.300,- og 3.000,- eks. mva. alt avhengig blant annet av type sak og hvem hos oss som utfører arbeidet.<br>\nTa kontakt for informasjon om eventuell rettshjelpsdekning via ditt forsikringsselskap.<br>\nI saker om ekspropriasjon har grunneier normalt krav på å få dekket sine advokatutgifter av eksproprianten (den som eksproprierer eiendommen).<br>\nArbeidet faktureres etterskuddsvis, med 14 dagers forfall.</p>\n<h5 class=\"Subsubheader\"> Betingelser, sikkerhetsstillelse med mer</h5>\n<p class=\"Info\">\nDet inngås avtale med klient før oppstart av vårt oppdrag, hvor klient blant annet presenteres firmaets alminnelige betingelser og informasjon om sikkerhetsstillelse m.m.</p>\n<h5 class=\"Subsubheader\"> Regelverk for advokatvirksomhet og klage på advokattjenester</h5><p class=\"Info\">\nFor informasjon om regler for advokatvirksomhet og klage på advokat:\n<br>\n<a href=\"https://www.advokatforeningen.no/advokatetikk/god-advokatskikk/\"> https://www.advokatforeningen.no/advokatetikk/god-advokatskikk/</a> \n<a href=\"https://www.advokatforeningen.no/advokatetikk/disiplinar--og-tilsynssystemet/klage-pa-advokat1/\"> https://www.advokatforeningen.no/advokatetikk/disiplinar--og-tilsynssystemet/klage-pa-advokat1/</a> </p></div>\n    \n    <!--------------------\nVi tar ekspropriasjonssaker for private grunneiere og private utbyggere - mot stat og kommune. \nVi har lang erfaring også med andre saker innenfor fast eiendoms rettsforhold, derunder regulering etter plan- og bygningsloven, utbyggingsavtaler, fredningssaker og andre reguleringssaker, samferdselsjordskifte og vanlig jordskiftesaker samt tomtefeste. <br>\nFirmaet har i tillegg praksis med base i Gvarv i Telemark. <br><br> Vi har kontorer i Meltzers gate 4, ved Briskeby i Oslo.------------->\n    \n</section>",
-          "_customCSS": ".Content{\n    margin: auto;\n    max-width: 1200px;\n    background-color: white;\n    text-align: left;\n    padding-top: 15px;\n    padding-bottom: 16px;\n    \n}\n\n.Box{\n    margin:auto;\n    border-bottom: 1px solid lightgrey;\n    width: 50%;\n    height: 10px;\n}\n\n.Subheader{\n    font-family: raleway;\n    font-weight: normal;\n    letter-spacing: 2px;\n    margin: auto;\n    max-width:80%; \n    font-size: 2vw;\n    //border-top: 1px solid lightgrey; \n    padding-bottom: 15px; \n    padding-top: 20px; \n    text-align: center;\n}\n\n.Subsubheader{\n    font-family: raleway;\n    font-weight: normal;\n    letter-spacing: 2px;\n    margin: auto;\n    max-width:80%; \n    padding-top: 10px;\n    font-size: 1.25vw;\n    font-weight: bold;\n    padding-bottom: 10px; \n    padding-top: 30px; \n}\n\n.Info{\n    padding-top: 10px;\n    font-size: 18px;\n    font-family: Raleway;\n    margin: auto;\n    max-width: 80%;\n    letter-spacing: 0.8px;\n}\n\n@media screen and (max-width: 400px) {\n  .Subheader {\n    font-size: 2vh;\n  }\n  .Subsubheader {\n    font-size: 1.8vh;\n  }\n    .Info {\n    font-size: 1.6vh;\n  }\n    .Content{\n        padding-top:1px;\n        padding-bottom:20px;\n    }\n    .Box{\n        height: 5px;\n    }\n}\n\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-4o"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x235.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
-          "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #2e2e2e;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:100%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n    text-align:left;  \n    color:white;\n    margin:none;\n    float:left;\n    padding-left:5vw\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    text-align:left;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n    margin: 0;\n      padding-left: 3vw;\n      //border: 1px solid;\n    \n  }\n  .col-left {\n   width: 31vw;\n    margin: 0;\n      padding-left: 2vw;\n      \n    \n\n  }\n    img {\n       width:25vw; \n    }\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-4p"
         }
       ]
     },
@@ -6982,6 +6484,508 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_anchor": "custom-html-4t"
+        }
+      ]
+    },
+    "betingelser.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "betingelser",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".navbar": {
+              "padding": "1rem 0",
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "font-family": "'Open San'",
+              "& span": {
+                "padding-right": "1.0em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "top": "-0.2em",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "padding": ".6rem 0 !important",
+                "margin": "0rem .3rem !important"
+              }
+            },
+            ".btn": {
+              "padding": "0.4rem 1.5rem",
+              ".mbr-iconfont": {
+                "font-size": "1.6rem"
+              },
+              "display": "inline-flex",
+              "align-items": "right"
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "5rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "-webkit-flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "7rem",
+                  "margin": ".3rem 0",
+                  "color": "black",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem",
+                    "font-family": "'Lora', serif",
+                    "letter-spacing": "5px",
+                    "text-align": "center",
+                    "color": "black",
+                    "margin": "auto"
+                  },
+                  ".logo-top": {
+                    "border-bottom": "1px solid",
+                    "font-size": "15px"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center",
+                  "font-family": "'Lora', serif"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0",
+                "font-family": "'Lora', serif"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "display": "none",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "display": "block"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgb(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "70px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 1200px)": {
+              ".navbar-expand": {
+                "flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "0",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 700px)": {
+              ".menu-logo": {
+                "flex-shrink": "0"
+              }
+            },
+            "@media screen and (max-width: 400px)": {
+              ".menu-logo": {
+                "margin-right": "auto",
+                "margin-top": "0px",
+                "padding-top": "0px",
+                ".navbar-brand": {
+                  "display": "flex",
+                  "margin-left": "5rem",
+                  "padding": "0",
+                  "transition": "padding .2s",
+                  "min-height": "3.8rem",
+                  "align-items": "center",
+                  "margin-top": "0px",
+                  "padding-top": "0px",
+                  ".navbar-caption-wrap": {
+                    "display": "-webkit-flex",
+                    "-webkit-align-items": "center",
+                    "align-items": "center",
+                    "word-break": "break-word",
+                    "min-width": "7rem",
+                    "margin": ".1rem 0",
+                    "color": "black",
+                    "margin-top": "0px",
+                    "padding-top": "0px",
+                    ".navbar-caption": {
+                      "line-height": "1.2rem !important",
+                      "padding-right": "2rem",
+                      "font-family": "'Lora', serif",
+                      "letter-spacing": "5px",
+                      "text-align": "center",
+                      "color": "black",
+                      "margin": "auto",
+                      "font-size": "3vw",
+                      "margin-top": "0px",
+                      "padding-top": "0px"
+                    },
+                    ".logo-top": {
+                      "border-bottom": "1px solid",
+                      "font-size": "3vw",
+                      "margin-top": "0px",
+                      "padding-top": "0px"
+                    }
+                  },
+                  ".navbar-logo": {
+                    "font-size": "4rem",
+                    "transition": "font-size 0.25s",
+                    "margin-top": "0px",
+                    "padding-top": "0px",
+                    "& img": {
+                      "display": "flex"
+                    },
+                    ".mbr-iconfont": {
+                      "transition": "font-size 0.25s"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://mobirise.com\">\n                         <img src=\"@PROJECT_PATH@/assets/images/logo2.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"index.html\"><div class=\"logo-top\">ADVOKATFIRMA</div>Vale &amp; co</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"kompetanse.html#header1-k\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        KOMPETANSE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"medarbeidere.html\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        MEDARBEIDERE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"artikler.html\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        ARTIKLER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        BETINGELSER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"kontakt.html\" data-app-selector=\".nav-link,.dropdown-item\">\n                        \n                        KONTAKT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\">\n                <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">\n                    <span class=\"mbri-save mbr-iconfont mbr-iconfont-btn \" data-app-selector=\".mbr-iconfont-btn\"></span>\n                    Try It Now!\n                </a>\n            </div>\n        </div>\n    </nav>\n</section>",
+          "_anchor": "menu1-4n",
+          "_cid": "renObNIkqF",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section class=\"Arbeidsomrader\" style=\" background-color: white; padding-top: 100px; padding-bottom: 30px;\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <div class=\"Content\">\n        <h1 class=\"Subheader\">VÅRE PRISER OG BETINGELSER</h1>   \n        <div class=\"Box\"></div>\n        <h5 class=\"Subsubheader\"> Priser / omkostninger</h5>\n            <p class=\"Info\">\n\n\nVåre timespriser ligger normalt mellom kr 2.300,- og 3.000,- eks. mva. alt avhengig blant annet av type sak og hvem hos oss som utfører arbeidet.<br>\nTa kontakt for informasjon om eventuell rettshjelpsdekning via ditt forsikringsselskap.<br>\nI saker om ekspropriasjon har grunneier normalt krav på å få dekket sine advokatutgifter av eksproprianten (den som eksproprierer eiendommen).<br>\nArbeidet faktureres etterskuddsvis, med 14 dagers forfall.</p>\n<h5 class=\"Subsubheader\"> Betingelser, sikkerhetsstillelse med mer</h5>\n<p class=\"Info\">\nDet inngås avtale med klient før oppstart av vårt oppdrag, hvor klient blant annet presenteres firmaets alminnelige betingelser og informasjon om sikkerhetsstillelse m.m.</p>\n<h5 class=\"Subsubheader\"> Regelverk for advokatvirksomhet og klage på advokattjenester</h5><p class=\"Info\">\nFor informasjon om regler for advokatvirksomhet og klage på advokat:\n<br>\n<a href=\"https://www.advokatforeningen.no/advokatetikk/god-advokatskikk/\"> https://www.advokatforeningen.no/advokatetikk/god-advokatskikk/</a> \n<a href=\"https://www.advokatforeningen.no/advokatetikk/disiplinar--og-tilsynssystemet/klage-pa-advokat1/\"> https://www.advokatforeningen.no/advokatetikk/disiplinar--og-tilsynssystemet/klage-pa-advokat1/</a> </p>\n<h5 class=\"Subsubheader\"> PERSONVERN</h5><p class=\"Info\"><a href=\"betingelser.html\"> Klikk her</a> </p>\n        \n    </div>\n\n    \n    <!--------------------\nVi tar ekspropriasjonssaker for private grunneiere og private utbyggere - mot stat og kommune. \nVi har lang erfaring også med andre saker innenfor fast eiendoms rettsforhold, derunder regulering etter plan- og bygningsloven, utbyggingsavtaler, fredningssaker og andre reguleringssaker, samferdselsjordskifte og vanlig jordskiftesaker samt tomtefeste. <br>\nFirmaet har i tillegg praksis med base i Gvarv i Telemark. <br><br> Vi har kontorer i Meltzers gate 4, ved Briskeby i Oslo.------------->\n    \n</section>",
+          "_customCSS": ".Content{\n    margin: auto;\n    max-width: 1200px;\n    background-color: white;\n    text-align: left;\n    padding-top: 15px;\n    padding-bottom: 16px;\n    \n}\n\n.Box{\n    margin:auto;\n    border-bottom: 1px solid lightgrey;\n    width: 50%;\n    height: 10px;\n}\n\n.Subheader{\n    font-family: raleway;\n    font-weight: normal;\n    letter-spacing: 2px;\n    margin: auto;\n    max-width:80%; \n    font-size: 2vw;\n    //border-top: 1px solid lightgrey; \n    padding-bottom: 15px; \n    padding-top: 20px; \n    text-align: center;\n}\n\n.Subsubheader{\n    font-family: raleway;\n    font-weight: normal;\n    letter-spacing: 2px;\n    margin: auto;\n    max-width:80%; \n    padding-top: 10px;\n    font-size: 1.25vw;\n    font-weight: bold;\n    padding-bottom: 10px; \n    padding-top: 30px; \n}\n\n.Info{\n    padding-top: 10px;\n    font-size: 18px;\n    font-family: Raleway;\n    margin: auto;\n    max-width: 80%;\n    letter-spacing: 0.8px;\n}\n\n@media screen and (max-width: 400px) {\n  .Subheader {\n    font-size: 2vh;\n  }\n  .Subsubheader {\n    font-size: 1.8vh;\n  }\n    .Info {\n    font-size: 1.6vh;\n  }\n    .Content{\n        padding-top:1px;\n        padding-bottom:20px;\n    }\n    .Box{\n        height: 5px;\n    }\n}\n\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-4o",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<section class=\"foter\">\n    <div class=\"kontent\">\n        <div class=\"col-left\">\n            <h class=\"header\"> Advokatfirma Vale &amp; co </h>\n            <p class=\"text\">Meltzers gate 4, 0257 Oslo<br>Org. nr. NO 986 458 212 MVA  <br> </p>\n            <img src=\"@PROJECT_PATH@/assets/images/logo-advokatforeningen-sort-170x2320.png\">\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Carl-Fredrik Setsaas</h>\n            <p class=\"text\"><strong> Mob:</strong> 91 82 87 38<br><strong>Email:</strong> setsaas@valeco.no  </p>\n        </div>\n        <div class=\"col-right\">\n             <h class=\"header\"> Hilde Vale </h>\n            <p class=\"text\"> <strong> Mob:</strong> 90 74 52 49<br><strong> Sentralbord:</strong>  22 69 22 01<br>  <strong> Email:</strong> vale@valeogkjeldsberg.no  </p>\n            \n        </div>\n    </div>\n</section>",
+          "_customCSS": "/* Type valid CSS here */\n.foter {\n    height: 23vh;\n    background: #2e2e2e;\n}\n\n.kontent{\n    position:relative;\n    height:80%;\n    width:100%;\n    \n    margin:auto;\n    top: 20%;\n    text-align:center;\n}\n\n.col-left{\n    height:100%;\n    width:20vw;\n    text-align:left;  \n    color:white;\n    margin:none;\n    float:left;\n    padding-left:5vw\n}\n\n.col-right{\n    height:100%;\n    width:20vw;\n    color:white;\n    float:right;\n    text-align:left;\n    margin-right:3vw;\n \n}\nimg {\n    height:auto;\n    width:11vw;\n}\n\n\n.header{\n    font-family: 'Lora', serif;\n    font-size:1.3vw;\n}\n\n.text{\n    font-family: 'Lora', serif;\n    font-size:0.95vw;\n}\n\n@media screen and (max-width: 400px) {\n  .header {\n    font-size: 9px;\n  }\n  .text {\n    font-size: 7px;\n  }\n    \n  .col-right {\n    width: 30vw;\n    margin: 0;\n      padding-left: 3vw;\n      //border: 1px solid;\n    \n  }\n  .col-left {\n   width: 31vw;\n    margin: 0;\n      padding-left: 2vw;\n      \n    \n\n  }\n    img {\n       width:25vw; \n    }\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-4p"
         }
       ]
     }
